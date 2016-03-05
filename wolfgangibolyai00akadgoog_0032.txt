@@ -1,0 +1,41 @@
+16 PRAEVOE NOTANDA.
+
+Ex A est cum non Β sequitur B est cum non A; nain pei· A est
+cum non B, et B est cum A poneretur alz‘quodA esse cum B et non B,
+et tum patet uti antea.
+
+Ex eo, quod quodvis non A est cum aliquo non B, sequitur, quodvis
+B esse cum aliquo A; narn per non A est cum non B et Β est cum
+non A poneretur aliquod non A esse cum B et cum nun B, adeoque
+patet per IV.
+
+2. Propositiones vel conceptus A et B aequivalentes clici possunty
+si quodvis A sit cuin aliquo B et quodvis B sit cuni aliquo A; quod
+ita quoque prodity si demonstretur, quodvis A esse cum aliquo B et
+quodvis non A esse cuin aliquo non B, nam (per praecedentia] tunc
+etiam quodvis B est oum aliquo A.
+
+Idem prodit demonstrando, quod non A est cuin non B, et non B
+est cuin non A; uti etiam ex A est cum Β et B cst cum A prodit
+non A esse cum non B et non B cum non A.
+
+Ex ec, quod quodvz'sA est oum aliquo B, non sequitur, quodvis B
+esse cuin aliquo A; nam (uti e typo generis superiore patet) qualitas
+aliqua praeter speciem ipsius A in aliis qnoque adesse potest; sed sequitur
+aliquod wel aliqua E esse omn aliquo A; nempe ubi A cum B est,
+etiam B cuin A est. Ex non omne A est cum B sequitur aliquod A
+asse cum ᾉΕς nam mm omna est aut aliquod vel aliqua exclusive aut
+nulluin; si nullum A est cum B, omne A est oum fil& si aliqua
+exclusive sunt cuin B, reliqua sunt cuin non B, quia Baut -B adesse
+debet (111 et IV).
+
+3⁴ Sint a,b,c; et denotet heic (μθ-ὂ esre a cum [7y atque a—b denotet
+esse a cum mm h (id est sine b), eademque denotatio in aliis quoque
+(sed heic tantum) valeat. Quaevis litera possit sive —l- sive —- denotare:
+ex. gr. b possit ——z quoque denotare (signum fi sensu non arithmetico,
+sed superiore intelligendo). Quaeritur, ex una propositione α-ι-Ι) et alia
+adhuc tali, in qua una litera c esty altera vero ssa (id est a vel νγ(ι)
+vel ssb (id est b vel ssb) est, quando et quae conclusio est?
+
+Patet combinationes omnes esse sequentes:
+

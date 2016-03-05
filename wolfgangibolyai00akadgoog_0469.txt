@@ -1,0 +1,36 @@
+SECTIO TERTIA. 453
+
+epriore a(Ec—-bq) —bflE'c—uq) zssc
+et a(—Ec-1-bq)—b<—1¹:¹'c÷aq>=ssc,
+ex altera argEc-bq) —tbsseEc—u-aqj):ssc
+et αι-Εε-ι-Βᾳᾱ-ι-ΜΕε-αᾳ) zssc.
+
+Unde videre est, quod ubi signa ipsorum Ec et E'c conveniunty
+etiam signa ipsorum aq et bq conveniant, sed illis contrarientur‚ et ubi
+illa diversa sunt, haec quoque tarn inter se quam cum illis contrariemur.
+
+4. Quaeritur, quomodo q pro quavis harum aequationum eligi debeat,
+ut valores integri positivi, imo valeres minimi prodeant?
+
+Oportet q esse integrumg quia nisi aq, bq integri sint, Ec—bq et
+E'c——aq integri non erunt, si vero aq, bq integri essent et q<1 esset,
+fieret asp fractio terminis minoribus expressa quam ἶ (pag. 426), quum
+b et a sint inter se primi Εἰ.
+
+In forma prima, ut Ec—bq et E'c—ctq positivi fiant, deiaet esse
+Ec>12q atque E¹c>aq; itaque q< tam ipso ἐξ quamipsossffff. Unde
+
+manifesto ex integrisy qui infra utrumque valorum Ἶὲ et Ἦς sunt, ma-
+ximus integer eligendus pro q erit, ut quam plurimum destruendos quarn
+minimum positivum relinquat.
+
+In forma secunda debet esse bq>Ec et uq>Ec3 itaque ᾳ>έῖ<ςῆ
+et Ιείῐηυ1ᾳ>ᾅς adeoque pro q ex integris tam ipsum WEbL quam ipsum
+Ξᾶςν superantibus minimus eligendus est, ut terminus negativus e posi-
+tivo destruens quam minimum relinquat. Unde forma secunda semper
+gaudet valore petito; uti etiam prima, quum ibi, si pro q alius integer
+non detur, 0 accipi possit; nempe si aE—bE=‡1‚ tum aEc-hEczssc
+(pag. sequ).
+
+In tertia forma debet esse bq<Ec et uq>Ecz itaque
+

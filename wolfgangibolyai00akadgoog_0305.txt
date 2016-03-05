@@ -1,0 +1,41 @@
+SECTXO SECUNDA. 289
+
+2. Formae curvae definitio paulo iuferius dabitur3 sed concavitatis,
+convexitatis, tangentis, subtangcntis, normalis, subnnrmalz‘squae con>
+ceptus hic explicandi venium. Sit abscissa x variabilis absoluta.
+
+Concava dicitur linea versus x, si arcus quilibet in chordae suae plagam
+unam, et abscissa arcui respondens in plagam chordae alteram eudat3 si
+vero arcus quilibet cum abscissa ei respondente in cordae plagam ean-
+dem cadant, convexa audit⁴ Per abscissam arcui respondentem intelligitur
+pars ipsius x, inter ordinatas perpendiculares ab extremitatibus arcus
+demissas contenta.
+
+Hinc si concava sit, e quovis puncto intermedio arcus ducantur chordae
+ad eius extrema, et ex his demittantur ordinatae ad x perpendiculares,
+recta fines harum coniungens erit chorda arcus totius, et basis trianguli,
+quod cum prioribus duabus chordis efficit, caditque hoc triangulum in
+plagam baseos superiorem, si pars abscissae arcui respondens inferius sitg
+atque angulus basi oppositus est <2R (per R rectum intelligendo)⁴ Est
+itaque angulus, quem curvae versus abscissam concavae ehordae e finibus
+arcus ad punctum intermedium efficient, <2R, pariter patet angulum
+quemvis eiusmodi curvae versus abscissam convexae, esse >2R (omnino
+versus abscissam intelligendo), Potest vero etiam per hoc ipsum definiri
+curva concava et convexa, quum ex hoc sequatur id, quod in defiuitione
+dictum θεῖς possuntque alia criteria quoque dari.
+
+Si lineae nulla portio recta sit, e talibus portionibus constare debet,
+quarum cuiusvis aut crescunt ordinatae aut decrescunt (ad dextram imel-
+ligendo). Nam feratur ordinatu y ad dextram continuo eundo perpen>
+diculariter ad x, atque e line primi y seratur punctum p in dicto y, nt
+sit semper in fine ordinatae, illi abscissae respondentis, ad cuius finem
+tuuc dictum y pervenit, p in eodem puncto huius y munere sub nullo
+tempore continuo potest, nam tunc alicui portioni ipsius x recta re-
+sponderet; itaque p aut sursum movetur aliquamdm, aut deorsum; iu
+casu priore crescentibus, in posteriore decrescentibus ordinatis. Si vero
+prius sursum moveatur, aut usque ad linem sursum movebitur, aut non,
+si nou, turn datur ultimum temporis punctum P (pag. 20), ante quod
+quodvis punctum temporis tale est, ut p post illud in y sursum motum
+
+sulm, remmus-1. 1 37
+

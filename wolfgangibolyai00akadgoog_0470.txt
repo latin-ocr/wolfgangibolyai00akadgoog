@@ -1,0 +1,39 @@
+454 CONSPECTUS ARITHMETlCAE GENERALxs.
+
+». E'c Ec i .. ⁴ . . ⁴ . ι
+atque si mter Τ et Τ integer detur, quiV1s 1p81 q substitui poterit,
+si vero nullus detur, nec ipsorum x et y valores ulli integri positivi
+erunt. In hac aequatione autem, si minimus valor ipsius x quaeratur, tum
+omnium valorum dictorum ipsius q maximus accipiendus esty ut quo
+plus destruat e positivo; si vero minimum y quaeratur, minimum accipi
+
+debet, ut negativum destruens quo minus relinquat. In forma quarta
+Ec E'c ‚ . . . . Ec . . 'c
+ss < q<T⁷ ltaque Sl detur integer ipso Τ maior et ipso T
+minory is accipi poterit; atque pro minimo x minimum q7 pro minimo
+
+y maximum q eligendum est.
+
+5. Si εει, tum nonnisi in casu formae secundae addi modo relato
+obq—abq debet3 nam si ctE— bE¹=ss1 cum aequatione proposita conr
+veniat, tumy ut statim patebit, E et Ε valores minimi erunt; si vero
+non convenerit, in quavis forma praeter secundam q fractio vera erit,
+quia E<b et E< α, adeoque (pagi 452) valor non erit integer.
+
+Quod E et Ε valores minimi sint, si uE— bE': ssI propositae aequa-
+tioni convenerit, patet sic, Nisi minimi sint: sint E-n et E'—m
+minimi; erit
+
+aE-nrz—E'b÷bm:ss1‚
+et subtrahendo aequationem priorem, est
+
+hm — an = 0,
+adeoque banzam et hinc
+
+atque per {pagi 42&
+n z bk et m z ak
+pro k integro ς unde
+Essan—bk, et E'—nz:E—ak
+
+valores negativi essent non positivi, quia E<h, et E< α(
+

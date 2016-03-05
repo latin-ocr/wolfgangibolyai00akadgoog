@@ -1,0 +1,32 @@
+CONSPECTUS ARITHMETICAE GENERALIS
+
+suerio u.
+
+CALCULUS DIFFERENTIALIS ET INTEGRALIS, ET PRIMAE LINEA
+CALCULI VARIATJONIS.
+
+§⁴ 36.
+
+Filurn sectione praecedenti certo respectu interruptum tandem interius
+continuatur: ut Tyrones ex imis radicibus arborem scientiae curn prae-
+cipuis eius ramis excrescentibus in lucem exsurgere cernant,
+
+Mens abstrahendo variay abstractaque vario modo componens, de omnium
+iliarum operationum, quae ante sectionem praecedentem prodierant, omni-
+moda compositione ad conceptum generaliorem ascendit: nimirum qua-
+iiuiuvis operationum, quae in tempore spatiove suscipi possunty qualibusvis
+afficiantur quantitates, expressio id denotans (nomine a Lez‘hnz‘tz'o introducto)
+Vocatur functio, et quidem sensu lato quantitatis cuiusvis, quae in
+expressione adesty strictius autem tantuin quantitatis variabilis, quae in
+expressione est, aut plurium, si plures adsint. Variabiles plerumque po-
+stremis alphabeti literis x, μη, imo j>y qw* denotantur, constantes
+prioribus, nisi aliud monitum fuerit; intelligitur autem per variabilem
+ex. gr. x, certum quantitatum genusy quas nomine generali x denotare
+libet; ita ut ipsi x quaevis quantitas sub eo genere contenta, in expressione
+substitui possit, nisi id pro certa quaestione aut conditione aliquatenus
+restringatur; conslans vero est, quae utcunque mutata variabili, id est
+ex. gr⁴ ipsi x quidvis substituatury eadem manet,
+
+Quum heic (velmi in oceanum omnia confluunt, ut inde sublata in
+altum variis phaenomenis redeant) innumeris functionis modis caln-
+

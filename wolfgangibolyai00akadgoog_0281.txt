@@ -1,0 +1,49 @@
+sEcrio SECUNDA. 265
+
+ipsi H propius est, distantia centri magnitudinis a H dicatur b, remo-
+tioris vero distantia ab X dicatur ος erit summa productorum ex utroque
+z in centrorum magnitudinis eorum distantias
+
+:bz÷(b÷2c)z:2z(b÷c);
+
+est antem 2(b -ι- c) constansy utcunque mutentur Z> et ες adeoque et hic
+
+limes summae productorum omnium z in suas distantias, erit 2be-i-c),
+
+(pro M lineam dimidiam denotante) et distantia centri gravitatis a Herit
+2M(b÷c>
+
+2Mfflffl=b÷⁶3
+
+ 
+
+quae distantia ipsorum H et X est. Consequenter centrum gravitatis
+in X cadit.
+
+Corporis per revolutionem eirca axem generati quoque centrum gravi-
+tatis in axein cadere pariter patet.
+
+Omnia dieta vero ad ordinatas decrescentes quoque facile applicantur.
+
+Pro linea cui-vay etsi non in planum cadat, chordae arcuum inter plana
+dicta parallela contentorum, sunt ipsa ΖΗ centro magnitudinis gaudentia;
+pro superficiebus autem talia plana Z ponuntur centro magnitudinis
+gaudentia, quornm summae limes sit superficies ipsa; idern quoad solida
+patet.
+
+Est autem etiam, dum tantum longitudo curvae, aut area superficiei
+curvae quaeritur, functio, cuius differentiale quaeritury non in concreto
+(nt ex. gr. area parabolaei data: sed demonstrandum est limitem dari,
+qui functionem absolutam differentiundain praebeat. Ita (pag. 250) spatium
+in motu difformi est functio absoluta per limitem tantum data; quein dari
+ibi qnoque patet.
+
+Demonstrari potest, pro quavis linea, superficie, et corpore quovis
+dari centrum gravitatis; imo si planum quodvis Q per id ducatur, atque
+agantur plana. ei utrinque ad distantias aequales parallela7 et respectiva
+z inter proxima plana parallela contenta per distantias centrorum magni-
+tudinis ἀ Q multiplicata momenta vocentur, ac in nna ipsius Q plaga
+accipiantur positive, in altera negative: erit limes summae omnium ino-
+
+nomn, *ronzanum i, 34
+

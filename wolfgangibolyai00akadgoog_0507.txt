@@ -1,0 +1,46 @@
+SEC'rlo QUARTA, 491
+
+Adhibuit autem Aleper motus ideam, uti Newton acl calculum fluxio-
+num, nempe in duarum rectarum una A, puncto certa lege moto,
+seriem geometricam, (quod facile, et clarius quam a Nepero exponitur,
+fieri potest); in altera B, motu uniformi seriem aequidifferentium pro-
+duxit, terminosque posterioris terminis prioris pro iisdem temporibus
+aequalibus respondentes, horum artificiales dixit, hoe nomine pro loga-
+rithmo usus.
+
+Sinum totum divisit per nzlo 000 000, et tot eiusmodi partium
+artificialem dixit ο, pro quo nullus adhue motus evenit in linea B3
+nempe log.{—:log.1=0; postea quaerendo ingenti labore inter 1 et
+ἑ, 1 et ᾗ ‘5 proportionales medias, atque inter quasvis item novas,
+pervenit ad seriem continue proportionalium geometricam, cuius ter-
+njx erat, et huius
+
+ 
+
+minus primus ab ἦ decrescendo, cum errore exiguo n
+artificialem (motu in B) posuit ῖς atque ita porro, omnino cum errore
+aliquo, ipsi (⁷223)² respondent artificialis 2, et ipsi ὲ respondet arti-
+ficialis 6 931 469; nempe ratio ὲ 72:12 componitur ex tot rationibus ipsi
+3²}ss aequalibus, cuni errore exiguo.
+
+Tantae molis erat, adminiculis hodiernis adhuc deficientibus, systema
+logarithmoruin praeclarum seculi septimi decimi inventum condere3
+quanquam Neper quoque numerorum primorum logarithmis per multo
+labore quaesitas proportionales medias repertis, compositorum legarith-
+mos omnino per additionem computaverit.
+
+De usu tabularum et certis applicationibus pag. 512720 et 569ᾈ81
+dicetur: at de logarithmis Gaussz'am‘s, etiam aliquid dicendum foret, siqui*
+dem ad nos pervenissent, ex omnibus summi viri operibus desideratis, non-
+nisi ipag. 384 et 461) citata, et leeorz'zz motus corporum coelestium
+adsunt, primae lineae theoriae ivmgz'nariorum quoque sero pervenerunt,
+quum iam theoria, qnae in hoc tomo habetur, talis qualem concipere
+
+poteram, impressa erat.
+
+[Vi Coronidis instar (quoad pag. 33) addatur numeratio, euius pro-
+xima origo quidem arabim est, sed a scriptoribus Arabicis quoque
+
+Indis attribuitur3 uon de signis o, 1, , . . , sed de lege ingeniosa quae>
+62·
+

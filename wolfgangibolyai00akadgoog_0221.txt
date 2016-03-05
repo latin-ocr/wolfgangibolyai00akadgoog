@@ -1,0 +1,45 @@
+SECTIO SECUNDA. 205
+
+pus infinitus aperiatur: pronum est vias prospectusque eius patefientes
+sequi⁴
+
+Nimirum si quantitates, quarum genus x est, nulla alia operatione
+afficiantur, nisi quod sub certa conditione acceptae post se invicem
+ponantur: oritur Theorz'a combinatzbnumi Ex. gin conditio esse potest,
+ut ex 5 rebus, quarum genus x est, accipiantur duae: ita quoad ordinem
+aliqua determinatio esse potest, aut ordo in censum non vocatur (pag, 159)
+et quaeri potest quotnam et qui sint functionis valores,
+
+Si vero quantitates operationibus arithmeticis geometricisve aut aliis
+quoque connexae sint, variabilis quaevis erit genus aut omnis quantitatis
+[sive realis sive imaginariael, aut non omnis sed tantum realium, imo
+tantum numerorum integrorum, aut illarum tantuin quantitatum, quae a
+valore certo a usque ad valorem b [inclusive] sunt, aut denique varia-
+bilis genus certarum functionum esse potest,
+
+In quovis dictorum casuum, ultro succurrit inquirere:
+
+1. Pro certa {tinctionis conditione, in variabiliuin valeres [qualita-
+tesque).
+
+2. Pro certa variabiliuin conditione, in functionis valorem {qualita-
+telnquel,
+
+3, Pro certa functionis qualitate, quicunque fuerit (absque aut sub
+certa conditionel valor quantatis variabilis, in certorum functionem cou-
+stituentium qualitatem.
+
+4. Pro certorum functionem constituentium certa qualitate, iu functio-
+nis qualitatenr
+
+Exi gr. Si in (hl conditio ea sit, ut valor functionis 0 sit: quaeritur,
+num detur talis quantitas, quae si variabili substituatur, sunctiozo fiat?
+et quotnam qualesque dentur? Ita si plures insint functioni variabiles.
+Huc pertinet problema aequnz‘z‘ommm ex gr. x²ssxss2z0 nonnisi
+pro xz2 et κῖᾉῐ est. Praeter alias conditio esse potest, ut valor
+functionis maximus vel minimus fiat; quaerique, num detur eiusmodi
+valor, qui si variabili substituatur, functionis valor maximus vel minimus
+omnium eius valorum fiat?
+
+Si vero variabilis ipsa in functione genus certarum functionum Sit
+

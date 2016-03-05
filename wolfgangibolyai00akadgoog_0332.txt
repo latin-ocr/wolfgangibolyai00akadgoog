@@ -1,0 +1,40 @@
+316 CONSPECTUS ARITHMETICAE GENERALIS,
+
+Posset quoque dici: si inter rectam infinitam 21 et ramum r lineae
+cuiuspiam nulla recta cadat, quae sufficienter producta aut cum neutro
+quidquam aut nonnisi punctum unum utrique commune habeat; tum 21
+dicitur asymptota ipsius r, si nihil cum r commune habeam sivero
+punctum commune habeat, tangens audit.
+
+E definitione priore patet, quod si linea abscissarum et angulus
+ordinatarum ita accipi queat, ut a certo valore α abscissae usque ad
+certum valorem β eundo, ordinata ’καλ priusquam abscissazss fieret,
+pro abscissa :ss vero fiat οε), ordinata ista asymptota erit* Nempe et
+ordinata huic quam proxima secabit curvam. Ex. gr. si y: ἑ, , eundo
+a valore certo ex. gr, 1 ipsius x usque ad κει), fit, priusquam »σεο
+fierit, y omni dabili maius, et pro aczo fit 003 et quicunque fuerit an-
+gulus ordinatarum, recta e puncto, ubi σεῖο est, ordinatis reliquis paral-
+lela, asympmta lineae per aequationem dictam generatae est.
+
+Sed pro valore ipsius x crescente in infinitumy recta Q infinita nd axem
+ex initio abscissurum perpendicularis explorandae asymptotae inservit:
+nimirum quaevis recta P in eodem plano est aut ipsi Q parallela aut
+ad certum angulum v secat eam et quidem ad certam distantiam Z ab
+initio abscissaru1n,aut supra aut iufra axem, aut iu axe pro Z: ο, Si v
+rectus sit, ordinatae ipsius P omnes aequales erunt. Ordinatae curvae et
+rectae P dicantur y et Y pro eodem abscissae fine. Si v non sit rectus,
+Psecabit axem ad certum angulum u, qui pro angulo ordinatarum
+recto ipsum v ad rectum complebit, per v duorum angulorum dein>
+ceps positorum minorem intelligendo⁴
+
+Nisi vero asymptota ad axem perpendicularis sit, quo in casu necesse
+esty a valore certo ipsius x usque ad certum ordinatam curvae fieri dato
+quovis maiorem, talia Z et u quaerenda sunt, ut Y—-y a certo valore
+ipsius x incipiendo in infinitum nunquam fiat zo, sed tendat ad 0.
+
+In (Fig, 49) est s :y :s—oc :2‘¹ et hinc, propter s z ἐῶ,
+z :y ff Μ’] ς
+
+erat vero ely aequale tangenti illius auguliy ad quem tangens axem secat3
+et hinc si x ad 00 tendente sz ac elya» tangat, erit
+

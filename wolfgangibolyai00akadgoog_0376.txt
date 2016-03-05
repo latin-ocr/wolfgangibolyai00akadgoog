@@ -1,0 +1,43 @@
+360 CONSPECTUS ARITHMETICAE GENERALIS.
+
+nam sz—v. Est vero 32AE cotangens anguli illius, cuius tangens
+
+7)
+Ἠῶ est.
+
+Itaque angulus, cuius Vp& E tangens est, angulum priorem p ad
+rectum complet adeoque est zu, et cz-bh tangens cycloidis superioris est.
+Extendi hoc ad alias evolutas quoque potest, quum u suo alterno aequale sit.
+
+Ingeniose hinc HUGENIUS qui primus pendulum ad horologiis motum
+aequabiliorem conciliandum applicavit, laminam et ad dextram ipsi aa
+parem posuit, ut filo de laminis eycloidalibus in tangente tenso, cerinum
+oscillationis cycloidern describeret. Quum enim demonstretur ad descen-
+sum de cycloidis ath, pro bb verticali, puncto quovis usque ad infimum 11
+tempus aequale requiri; sive ad maiorem sive ad minorem arcum ob
+inaequalitatem dentium excurrat pendulum, isoehronum iu theoria manet;
+ternpus descensus autem per arcus circuli inaequales inaequale est.
+
+Ultro itaque suboritur quaestio: quomodo e data forma F, eius evo-
+luta E, atque ex E eius evolvens F reperiatur, Sed hoc tantum com-
+
+memorasse sufficiat.
+
+XII. Quum superius (pag. 206) quaestio suborta fuerit, quaenam sit e
+functionum certarum genere illa, cuius functio certa determinata sub
+certa quapiam conditione certa quadam qualitate gaudeat: huius etiam,
+Calculi vastationum dicti, idea casibus simplicioribus exponenda est.
+
+Sit x variabilis absoluta per n divisa, et sityzk(x{1‚ cuius derivatae
+quoad x accipiantur; atque functionum sub genere certo contentarum
+derivatae formula generalis sit ex. gr.
+
+Aya ψ A'ya'÷...÷B<01y>b ψ Βωψψ, , .÷ Cyc <dyit÷ &suffla . .=X;
+
+nempe sit casus, ubi in nullo termino faetor alius sity praeter potentiam
+aliquam ipsius y, potentiam aliquam ipsius dy, {unctionem aliquam ipsius
+x, et constantem. Quaeritur talis functio y ipsius xy quae si Ydicatur,
+integrale derivatae dictae, substituto Y ipsi y7 maximum vel minimum sit
+inter omnia derivatae huius integralia, quae pro alio y sumerentur.
+Ponatur Y÷m pro Y denotante ω functionem ipsius x, quae dato
+

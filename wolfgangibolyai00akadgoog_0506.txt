@@ -1,0 +1,57 @@
+490 CONSPECTUS ARITHMETICAE GENERALIS.
+
+Interim adhuc aliquid de logarithmis Neperz‘ (Scoti Baro-nis Mer-
+chistoniz', ex antiqua et insigni prosapia oriundi) addere in gratiam Tyro-
+num paulo ulterius provectorum libet,
+
+Calculum trigonometrieum sublevare eius propositum suit; sinum
+totum (nempe radium) ponit :10 000 000, quod sit :ru atque inde
+descendit in serie geometrissay cui subscribit seriem aequidifferentium,
+ila ut cuivis termino K seriei superioris respondeat terminus k expri-
+mens numerum rationis K ad n (saltem cum errore exigno), ratione
+ipsius n—1 ad n pro basi posita, (etsi basis apud Nepermn nullibi
+nwzinetur); ut nimirum moderno loquendi usu sit
+
+ 
+
+n
+
+K ἶ n—1 Ᾰ*
+ἓ < n )’
+cnm errore exigam et k [it legarithmus ipsius Ἦν quoad basimstJI.
+
+Atque hinc est, quod quamvis nullibi videatur „Ncper de logmz'thmz's
+qui naturam vocantur, cogitasse3 tamen per -ιο 000 000 id est —n
+multiplicatus logarilhmuS naturalis, in prioribus notis cum lwaaeitlzmo
+A'eperz'ano conveniat. Nimirum e basim logarithmorum naturalium deno-
+tante sit
+
+Ῑῖθχῖ
+quum (pag, 183] sit
+
+(μθ-ᾗ Πνκε,
+
+dum ns=003 erit etiam pro π satis magno, cum errore exiguo
+( ἵ 1>n x Κὴ( , 1>nx 1)-m nffq k K ῃ
+( ¹ ¹ n ) ’ἦ ¹ ¹ n (Ι 71 ( n ) *n ¹
+
+adeoque —nlen Consequenter x, id est logstmngy per —n multipli-
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+catus cum logarithmo Neperiano eiusdem Ῑ convenit, cum encre exig-un.
+
+Facile etiam patet logarithmum Neperianum fractionis verae posi-
+tivum, et quantitatis unitate maioris negativum esse: nempe ῘΖῘΤῙ est
+
+<1y adeoque ad negativum elevari (lebety ut unitate maius, et ad posi—
+tivum7 ut fractio vera prodeat.
+

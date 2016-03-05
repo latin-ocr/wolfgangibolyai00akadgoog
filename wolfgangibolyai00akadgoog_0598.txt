@@ -1,0 +1,33 @@
+582 CONSPECTUS ARITHMETICAE GENERALxs.
+
+L.
+
+cnm-mulsi CONVERGENTIAE SEROERUM.
+Ι. Criteriurn convergentiae nec
+nUnae-o,
+neque ab Auctore celebri allatum (pag. 177)
+
+Un. Un÷1
+
+Un-—Uw'w
+
+generale est; nam series, cuius terminus generalis 1: nlogrn est, contra
+utrumque divergity ut infra patebit.
+
+ΙΙ, Generale est a Manlaurino datum; nempe si pro ηε] -4-x‚ et
+termino n-to aequali y, area curvae pro x tendenti ad infinitum limite
+finito gaudet, convergit series, si vero area tendit ad infinitum, divergit;
+nimirum si termini rectangulis exprimantur, quorum bases sint unitates
+ab x=0 se invicem excipientes, altitudines autem ordinatae ad initia
+unitatum fuerinty sumina seriei est maior quam area7 sed excessus terr
+mino primo minor est, adeoque quaestio ad syo& reducitur.
+
+111. Errat autern ex hoe fonte derivando pronuntiens Montuciz«, quod
+si a, h, c generaliter tres terminos se invicem excipientes denotent et
+
+fuerit, converget series, si non, diver-get.
+Nam tuin pro a, b, c scribendo
+
+ss
+ω”-ω’ ζ> {ufjo
+

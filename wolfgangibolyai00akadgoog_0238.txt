@@ -1,0 +1,42 @@
+222 CONSPECTUS ARITHMETICAE GENERALIS.
+
+dum est Siquidem ΖΞ pv adeoque uz: upv, erit up derivata quoad v ipsius
+jue, atque haee functio primitiva quoad v ipsius up, nempe J. up: ,Γπ
+<quodum (911001Ἆᾶ1)
+15. Si plures insint functioni variabiles, et accipiatur differentiale
+derivataque eius quoad aliquam variubilium reliquis constantibus suppo-
+sitis: dicuntur dfferentiale partiale, et derivata partialis quoad illam
+variabilem. Patebit mox summam differentialium partialium quoad sin*
+gulas variabiles acceptorum esse differentiale ipsum functionis, et idern
+quoad derivatam probabitur.
+
+16. Derivam dicitur prima, quod tamen, ubi necesse non est, omit-
+titur; et 'ur-tae derivatae prima derivata dicitur derivata <laq-issa fun*
+clz'onz‘s primitivae, funalia (¹11†1)—ta iuxta LAGRANGE.
+
+Dfflrentiale quoque dici solet primum, et differentiale primum ‘uf—ti
+differentialis ita acceptum, ut literae puncto insignitae constantes supr
+ponantur, differentia& (μ -ι-ῐ)-1ιιῃι functionis primitivae diei solet. Sed
+derivatis prima, secunda, ..Εό omnia iuxta ill. LAGRANGE perfici pos-
+sunt; adsummum derivatae alicuius 'wtae differentiale claritatis gratia
+adferri potest.
+
+17, Quaecunque variabiles u‚v‚2,...fuerint, a certa variabili absoluta
+(ex. gr. x) sive necessario sive per certam in quovis casu conditionem
+praecepta positione simultanea dependentes: u dicatur BQ), ac v dicatur
+(λά), et Ζ dicatur D(s;x) differentiale verurn ipsius um vero, id est
+u(m2'cl-u((m —x)x x) dicatur bsx) ita ipsius C(x) sit c(x), et ipsius D(x)
+sit d(x>; atque sint ὀψε ) et b (x) aequipollentia, ita csx) et ομ), atque d(x)
+et aux), nempe
+2¹52 d (x)
+
+ᾗ) ιῇκγ
+
+*yx
+
+pro x ubique mab ponendo et omnia sensu superiore (pag. 210> intel-
+ligendo.
+
+Quoad quasvis variabilium u,v,Z,..i essent differentialia ὀψε), ε,(κ),.,.
+acceptus imo etsi non gaudeant forma differentialis strictiJ [mx] ut termi-
+

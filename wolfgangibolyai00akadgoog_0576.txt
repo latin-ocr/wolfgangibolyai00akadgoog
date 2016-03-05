@@ -1,0 +1,39 @@
+560 CONSPECTUS ARITHMETICAE GENERALIS.
+
+§- 5-
+
+Si quaeratur numerus m-borum sine permutatione, sed admissa
+variatione im, ut in quovis m-bo aliqua litera occurrat ex. gri 32ies
+<sed quaevis), alia ex. gr. 2⁷ies ξίν, aliae seme]; possunt quilibet sumi
+pro numeris istis, qui exponentes variationis dicuntun Ex. gr. forma
+aaabhcd erit sensu hoc eadem cum c3a'd2h'; patetque heic quaeri:
+
+Ι. numerum combinationum literarum, quae elementa dicuntum
+
+2. in quavis combinatione, exponentes quoties migrare, seu permutari
+queant: atque numerum combinationum elementorum per numerum
+permutationum exponentium multiplicari. Si ex. gr⁴ 7 res sint: erunt pro
+magine dieta, combinationes numero
+
+Q: Σὲ ,
+et hoe multiplicari per Ι '2 A ³ ’4
+ἷέἑέὶ
+Ι . 2
+
+debet; quia exponentes variationis numero 4 sunt, adeoque numerus
+permutationum eorum esset 1234, si diversi esseut; sed quum duo
+siut aequales, imaginum pais dimidia alteri aequans erit; quapropter per
+2 dividendum est.
+
+ᾗ, 6.
+
+Si quaeratur ex aaaa bbb cc def quot diversae imagines accszz
+queant, ila ut nulla litera pluries occurrat, quam in proposz'ta; pos-
+sit vero una quoque litera sola essm ex. gr. a non pluries quam ter,
+sed etiam seme] occurrero queat, Id est quot factores diversos habet
+factum e literis factores primos denotantibus?
+
+Prima litera dat 4, nempe αααα aaa aa a
+Secunda litera dat 3, nempe bbb bb b
+Tertia litera dat 27 nempe cc c
+

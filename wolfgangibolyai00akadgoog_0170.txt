@@ -1,0 +1,40 @@
+154 CONSPECTUS ARITHMETICAE GENERALIS.
+
+Vocantur numeri serierum harum, priorum (quae ordinis secundi sunt)
+polygonales, et quidem numeri seriei prioris triangulares, sequentis
+quadrangulare& insequentis pentagonales et itu porro, propter quod
+globuli numeris illis in tales formas disponi queant. Serierum ordinis
+tertii numeri vero dicuntur pyr‘tzmz‘dnles‚ eum globuli seriei primae iu
+pyramides basis triangularis, secundae iu pyramides basis quadratae, tertiae
+in pyramides basis pentagonalis Εέῗ exstrui queant; nempe si n-tus ter*
+minus seriei tertii ordinis sit, pro fundamento ponitur terminus nsstus
+seriei ordinis secundi, e qua illa exorta est, ei superponitur terminus
+huius (n—1)-tus et ita porro usque quo primus terminus (nempe 1) huius
+seriei apicem claudat.
+
+18* Erat superius a†b per se multz‘plz'wtums quaestio succurrit,
+quidsi adhuc semel per idem multiplicetur, aut quzdxz' id urias fiat?
+et quid si eadem operatio cun] tribus aut quatuor vel pluribus terminis
+suscipiatur ?
+
+Si ‹xz-bb per se multiplicetur, prodit
+
+a² -ι- zah -ι- 15² ;
+si [a -θ- h -ο- ο) per se multiplicetur, prodit
+αἌ —0- h² -θ- c² -θ- 2αῇ -ὶ- Zac >t- εἴη,
+
+seu summa cuiusvis termini ad 2 elevati, necnon duplum termini cuius-
+vis per summan antecedentium multiplicati. Si vero hoc de summa S
+numero m terminorum constet, etiam de uno pluribus constat; sit enim
+t terminus novus; erit
+
+(s —i- ἵν z 8² -ι- zst—t- t²;
+
+in εἴ adest cuiusvis terminorum priorum potentia secunda, necnon quivis
+terminus priorum pei· dupkun summam antecedentium multiplicatus, cui
+modo accessit πί et t²⁴
+
+Ita summae terminorum quotvis potentia tertia est aequalis summae
+cuiusvis termini ud 3 elevati, necnon tripli cuiusvis termini per secun-
+dam potentiam suinmae antecedentium multiplicati, atque termini cuius-
+

@@ -1,0 +1,41 @@
+SECTXO PRIMA, 47
+
+pro quavis imitate generaliter quotus non datur, et nonnisi pro illo casu
+datur, si unitas ipsius 3 sit n puncta, et divisor loco tertio stet, nempe
+tunc schema sequens est:
+
+Aliq. 1:37121, quot⁴ 2271, div, 3:371 puncta, divd. :2 puncta,
+
+Ubi patet multiplicandum aequale gn punctis pei· zu multiplicatum (lare
+pro facto 2 puncta, neque posse divisorem 3 loco secundo stare, quia tunc
+esset 111 duobus prioribus Ι et 3, et duo puncta deberent ad minimum
+per 3 partiri, ut sit 37).
+
+Alioquin praeter excepta, etsi incommensurabilia adfuerint, dari factum,
+quotum, et quartum in proportione, et unicum prodire, utcunque sumantur
+u et v, et resultata operationum additionis, subtractionis, multiplicationis,
+divisionis (praeter excepta) unica esse demonstrabitur, ut axioma Vi applie
+cari queat*
+
+ἓ 34·
+
+De uno tantum casu hic sermo sit, si faetores permutentur. Patet
+ex schematibus, in quibus non est 0, factum esse cum multiplicando
+homogeneum, atque prodire idem, si n(mllmn sit multiplicator, (cuins-
+cunque unitatis nbnssum sit); at si multiplicandus linea sit, multiplicator
+tempus, et permutentur, factum tempus quidem erit, sed quoad suam
+unitatem expressum erit aequale facto priori; quod ad divisionem quoque
+applicatur.
+
+Sint prius factores integri homngenei, ex. gr, 2 et 3, et sit [zm
+patet ex ᾗ 32, 1. multiplicatorem 2 dare ζ 32 ξς, 111 quo stellula quaevis
+superior ponitur deorsum bis, adeoque ἶ toties ponitur, quot stellulae
+supra sunt, adeoque idem factum esse factum etiam pro multiplicatore 3.
+Itaque in hoc casu faetores permutati etiam factum idem praebent; (de
+pluribus factoribus intrat
+
+Sint faetores heterogeuei, etsi non sint integri. Ex. gr. celeritas est
+quantitas respectiva, cuius index est spatium sub tempore t percursum.
+Mens simplicitati studens pro t unitatem temporis ponit. Sit haee 2271,
+et describatur sub quovis u spatium v, describetur zv sub zu, et erit
+

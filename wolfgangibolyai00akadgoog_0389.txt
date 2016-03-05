@@ -1,0 +1,43 @@
+SECTIO TERTiA. 373
+
+atque nomen radicis ad alios casus quoque hinc extenditur, quamvis
+proprie pro his tantum casibus reipsa locum habeat.
+
+2. Dicitur etiarn aequatio superior determinatas quum mox pateat,
+ipsius x, si coefficientium nullus sit signo radicali affectus, aut cuiusvis
+unus certus valor accipiatur, valores plane numero m dari, inter quos
+tamen certiy imo etiam omnes aequales esse possunt, qui functionem=0
+reddant, quilibet eorum substituatur ipsi x. Iino si etiam plures aequa*
+tiones totidemque variabiles, incognitae dietae et literis pariter alpha-
+beti ultimis designatae fuerinty determinata aequatio dicitur; nempe
+cuilibet incognitae valores duntaxat numero certo substitui possunt, qui
+aequationibus satisfaciant.
+
+Si vero pauciores sint aequationes, quain incognitae, aequatio inde-
+terminata dicitur* Ex. gr. pro
+
+x -c-y z ο
+est
+
+x2“yv
+et innumeri valores ipsi x substitui possunt, qui functionem ad 0 redi-
+gant. Possunt tamen etiam in aequationibus indeterminans, ut infra pa-
+tebit, valores incognitae certis conditionibus ita restringi, ut valeres aut
+certo tantuin nurnero dentur aut nullus plane sit.
+
+Potest etiam aequatio plus quam determinata dieta dari, si nempe
+plures aequationes quain incognitae sint3 et tum proprie conditioni impos-
+sibili satisfieri nequit. Nempe hicy si dicatur aequationes numero n dari,
+tales intelligantur, quarum nulla per reliquas ponitur; ex, gr. hoc sensu
+
+abzx, et {sszb
+
+non duee aequationes sunt, sed unica est3 duae tantum sunt identicae
+dictae. Ex. gr. si detur
+
+xssazo,
+et
+x-{AEQ
+
+quidcunque sit α praeter 0 aut b praeter ιζ conditio impossibilis est.
+

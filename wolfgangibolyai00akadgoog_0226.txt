@@ -1,0 +1,58 @@
+2'10 CONSPECTUS ARITHMETICAE GENERALIS,
+
+inteliectae'j viam patefecerant, sed lingua generalitatis nondum sari cepe-
+rat, Cartesius dedit pennas, quibus crescentibus oceani continentisque
+genii e graeco nido coelipeti tractu evolarunt.
+
+Si nimirum functionum absolutarum Arjx‘) et Βίας) serierluu termini
+generales denotentur per amna& et Mune), aut brevius per αἴας) et Mac),
+nempe
+
+a(mx):A(mx]—A(<m-—1]³e),
+
+b(m25):Btjmob)*B((m-1>22),
+
+summa seriei ipsius ΑΨ) autem dicatur Α, et B sit summa seriei ipsius
+mx). ut sit nempe
+
+A=A(x)-A(0), B=B(x‘›—B(0‘›‚
+atque pro eodem n quodvis
+h (mab) -ε βα (mab),
+
+bmn„
+ame) -
+
+adeoque
+
+ 
+
+β,
+
+quicunque numerus ab 1 usque ad η inclusive substituatur ipsi m, mani-
+
+festo est
+B: &A ς
+
+ 
+
+atque si ΞἙΖΞΞΖΙ, tum B:A; nempe
+A(x)—A(0)=B(x)—B(0),
+adeoque
+A (x) ε B(x) — B(0>-1-A (ο).
+Hinc talibus casibus venientibusy ubi τιζῖηαέ), g nempe terminus
+
+generalis seriei e functione non absoluta ἴλας) derivatae, cuius seriei
+
+uwmxk .
+admdj* qiudem non est ΣΙ, sed
+
+aucto n ipsi 1 propius aceedit: facilis passus erat quaerere, num dato
+
+ 
+
+summa dicatur Uy — talis est, ut
+
+quovis ω propius ire queat? id est num detur tale 77 (idem pro omnibus
+
+terminis), ut quicunque numerus ab 1 usque ad n inclusive substituatur
+

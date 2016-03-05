@@ -1,0 +1,42 @@
+PRAEVKE NOTANDAi [5
+
+Eodem progredi modo lieet ad C, et inde porro, nempe si q non
+sit A, nec B; tum si q nec inter 0,... sit, non esset inter A,B,C‚..⁴
+et simu] esset; ita porro progredi licet, et si ad ultimum perventum
+fuerit, eodem modo patet q illud ipsum esse.
+
+Ita si omne quodvis q sit inter A, B, ...α, b,...a',b'‚..iy atque q non
+sit inter A,B‚..., inter a,b,...1z'‚b¹,.t. esse pari modo patet; et si nee
+inter α,ὂ,,., sit, esse inter a'‚h',... pari modo patet*
+
+Di
+
+Sint jam A,B‚C qualitates aut res quaeeunque et quidem ita, ut ex.
+gr. z sit nomen generale tam ipsius -†-y quam ipsius —y (quod denotet
+heic non y), ita ut —Z denotet -4-y‚ si Z antea denotabat ——y, et denotet
+ey, si antea »μγ denotabat; ita etiam reliqua intelligantur. Propositio
+vero A est cum B, denotetur heic brevitatis caussa (sed hic tantum
+valeat ista denotatio) per A÷B; ita A—B' denotet hic A esse cum non
+Β,- et —eA-fl-b' denotet non A esse cum B.
+
+An vero de omni quovis A aut aliquo Εἴ dicatury quod sit cum B,
+denotatione ista determinatum non sit.
+
+Quaeritur, quae propositiones sequuntur ex una, qnae e duabus? fi&
+
+1. Ex una, nempe ex A est A sequitur A est non A non esse;
+nam per haee poneretur ita et non eiusdem, alterutrum duorum adesse
+debet (ΙΙΙ), Α est A adest, alterum itaque non est (IV). Ita ex A ast B
+sequitur A est non B non esse; qnod ita quoque exprimi potest, A est
+non Z, siz denotet non B. Ex quodvis A est non B sequitur B est
+non A. Nam per A est non B et Β est A poneretur aliquod A esse
+cum B et non B, et inde sequitur ut prius,
+
+Ex A est cum B sequitur aliquod B esse cum A; narn per A est
+cum B et hoc B ast cum non A poneretur aliquod B esse eum A et
+non Ay unde (ut prius) patet,
+
+Ex eo, quod quodvis A ext cum aliquo B sequitur quodvis non B
+esse cum aliquo non A; nam per non B est cum A, et A est cum B
+ponitur, aliquod A esse cum B et non B; itaque patet per IV.
+

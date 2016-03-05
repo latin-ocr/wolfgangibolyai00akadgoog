@@ -1,0 +1,38 @@
+592 CONSPECTUS ARITHMETICAE GENERAHS*
+
+M,
+
+PRIMAE LINEAE CALCULt DxFFERENTIALIS ET INTEGRALIS BREVIUS ET
+CLARtUS TRACFATAE.
+
+Quum nulla repetitio inutilis sit, quae saltem quorundam Tyromuu
+captui accomodatior fieri queat, ideam calculi differentialis et integralis
+brevius evidentiusque referre licebit,
+
+I. Variabilis x, a qua sive necessario sive certa suppositione depen-
+dent quotvis variabiles y, z, . . , dicatur absoluta, sintque eius valores
+
+y et β (a 0 accepti, et sive ambo positive sive ambo negative imo et
+
+aiter positive alter negative), denoteturque pro η integro positivo {ff
+
+per οἱ, sitque pro μ integro positivo ve] negativo
+βεμαὲ-ο-ω, [1020 vel ω<ἐε],
+
+ita ut y(122 et ω aut utrumque positivum aututrumque negativum sit, aut
+et sszo sit.
+
+II. Sit functio sz), dicaturque ex ea vel eius derivata series
+SequessSZ
+
+K(nob)—K((n——ii³⁴c)‚ K({n—1)5c)*-K((11—2]³'c)‚ ..q K((„u†1)92)—-K'[1‹15c†m),
+sitque m nomen generale ipsorum
+n, nffll, n—2, . . ., yiffi-2, ,ιι-Η,
+Esset (inde a 0] seriei dictae terminus m-tus
+Ktma'c) — K((m—1>22),
+
+si pro m—Izsta addatur ω ipsi (ῆι-ὴὲ. Denotetur iste terminus m-tus
+per k(7n5c]. Eritque summa, terminis intermediis se mutuo destruentibus,
+
+K(y)—K(ss)
+

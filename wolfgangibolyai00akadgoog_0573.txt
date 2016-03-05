@@ -1,0 +1,36 @@
+SEc'rio QUARTA. 557
+
+ordine, quain permutationes,- nec non combinationes, admissa et varia-
+tione iuxta certam legem, tam exclusa permutatione, quam adniissahac
+qnoque.
+
+§- 3⁴
+
+Permutationes construi possunt: prius rein primam a ponendo, dein
+rein nova b, prius ioco primo, dein secundm atque idem culn re
+nova c, et tuin cum cl, et quavis nova re suscipiendo3 nt ponatur haec
+prius ioco primo, dein secundo, et ita porro usque ad finem, in quavis
+permutatione, quae antea prodiit* Ita in primo ordine, quie duorum
+rernm permutationibus constat, si accipiatur ex, gr. secundag et in se-
+cundo ordine in quo iam tres sunt, quae e dicta secunda fiunt, accipia-
+tur earnm prima, et in tertio ordine ubi iam quatuor sunt, quarta
+accipiatur istarum, quae e proxime dicta prima fiunt, et ita porro: habe-
+tur per numeros 2, 1, 4 permutatio determinata exi gr. chad esset talis
+pro literis a, b, c, d.
+
+Possem etiam permutationes ita construi: ut res numeris denoten·
+tur, ex. gr. 1, 2, 3, 4: et iidem numeri decadice ita scribantur, nt nnl-
+ius valor einaneat, qui iisdem numeris exprimi potest, totidem nimirum
+locis, atque nullo numero bis occurrente, praeterea autem valores sem-
+per crescant, nt nullus iam descriptus sit ullo sequentium maior.
+
+Exi gr.
+
+..μφωωωω
+*tamem->m
+nasto-³202»
+
+Patet prodire omnes quibus x praeest; ita prodire quibus 2 praeest,
+et ita porr0; omnes enim valeres quibus 1 praeest cum iisdem numeris,
+et alio ordine, sunt diversi, et quorumvis eorum datur minimus.
+

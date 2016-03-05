@@ -1,0 +1,40 @@
+308 CONSPECTUS ARITHMETICAF, GENERALI&
+
+convexi fuerint rami, aut Concavi; pro cuspide primi generis tangens
+iuter utrumque cadit, pro aitera non. (Fig. 45, 46, 47, 48Ᾰῖ
+
+Si piures rami tangentibus ad idem punctum diversis gaudeant, vocatur
+punctum multiplum; quod fieri posse manifestum esty si functionis plu*
+res valeres (ex, gx. per radicalia) fuerint, qui pro certo valore ipsius xy
+disparentibus ex. gr. certis radicalibus, ad unicum redigantnr; uti exempla
+ostendent. Pertiuent vero etiam cuspides ad puncta inul‘tipla; at cus>
+pidis ramus uterque tangente eadem gaudet; et dantur eiusmodi puncta
+multiph, ut nuni ex eodem puncto prodeuntes diversis tangentibus gan-
+deaut; est autem omnibus punctis muitiplis communey quod ordinata,
+quae ad tale punctum esty derivata quoad omnes ramos inde prodeuntes
+non nna gaudeat, uti quaevis alia etiam ordinatarum plurium eidem
+puncto respondentium.
+
+Dantur etiam puncta isolata dieta: datur nempe functio talis, cuius
+ex. gr, a valore certo ipsius x usqne ad certum (aut in 00)y nonnisi pro
+certo unt certis vaioribus detur valor realis; atque si talis valor 0 sit,
+per y punctum abscissae ibidem determinetur.
+
+Exempla.
+
+cz) Si ordinata y sit :lbi-affl, erit pro ly positivo et a posi
+tivo linea versus abscissam convexa, et concava si ιι negativum sit,
+et quidem utrinque ab κει) incipiendo, tam pro x positive quam pro
+x negative incipiente5 exeurrnutque duo rami utrinque aequaliter, ordi*
+natis crescentibus in θος transibunt antem per axem ad distantias a capite
+abscissarum aequales, si ct negativum fuerit, ubi (mzij quum ibi
+yzo sit; ac tangens erit axi parallela pro 9610. Nam derivata prima
+[quae breviter d atque ita secunda dici potest ff] est mxzo pro x:0;
+ὀὶ autem =2a, quod positivum est pro a positivo, et negativum si α
+negativum suerit, adeoque linea in casu primo ex aczo incipiendo ver-
+sus abscissam convexa, in aitero concava erit.
+
+Patet vero ΒΡ esse pro quovis valore ipsius x positivum pro a posi*
+tivo et negativum pro a negativo; interim post noaz-b, pro α nega-
+tivo, transeuntibus ramis in alteram axeos plagam, erunt hi ad partem
+

@@ -1,0 +1,38 @@
+160 CONSPECTUS ARITHMETICAE GENERALIS.
+
+reliquarum, quae numero n——i sunt, prodibunt imagines, quarum nullae
+duae sunt aequales, et in quarum aliqua litera quaevis praeposita et quae*
+vis alii postposita adest, adeoque numerus omnium amborum simul cum
+permutationibus literarum, atque numerus imaginum harum est n(n—I);
+et e qualibet harum imaginum, <in quibus iam 2 literae sunt), si cuilibet
+imagini literarum reliquarum (quae pro quavis imagine numero n—2
+sunt) quaevis postponatur, oriuntur n[7t—1)(n-2) eiusmodi imagines,
+quarum nullae duae sunt aequales, nain imagines binarum omnes diversae
+sunt, adeoque etsi omnibus eadem litera postponeretur, omnes inaequales
+manerent, adest quoque quaevis permutatio e 3 literis constans inter
+istas imagines, nam quaevis data fuerit, in illa erit litera cius postrema
+permutationi alicui e 2 literis constanti postposita; adest vero quaevis
+talis permutatio, quavis literarum reliquarum postposita, (nulla nimirum
+litera in ulla imaginum bis occurrente)⁴
+
+Unde ad uno plura concludere licet. Si nempe ex n literis perniu-
+tationes ex m literis constantes, numero u(n—1) (n—zr)...(nfflifmj1))
+accipi possint, erunt permutationes ex 7n÷1 literis constantes numero
+nin—15.. ,['n⁷m); nam si ut antea cuivis priorum permutationum e literis
+m constantium quaevis reliquarum literarum, (quae pro quavis permuta-
+tione numero n—an sunt] postponatur, orientur n1'n—1).,.[n —— m) permuta>
+tiones singulae diversae, (quia diversae ante postpositionem erant), et inter
+quas quaevis permutatio ex wadel literis constans aderit, nam ut antea
+quaecunque talis permutatio detur, erit in ea, litera eius postrema, alicui
+permutationi ex m literis, (talibus, inter quas illa postrema non adest)
+constanti postposita, aderant Vero omnes permutationes ex m literis con-
+stantes, et cuivis quaevis ex η literis, quae in illa non adest, postposita esti
+
+Si vero tantum de numero eombinationum quaeratur (abstrahendo a
+literarum earundem ordine in quavis imagine), tum manifesto, cum om-
+nes permutationes quoque adsint, toties plures imagines ex. gr, ex m
+literis constantes erunt, quoties m literae permutari possunt, adeoque
+numerus imaginum per numerum permutationum dividi debet. Sunt vero
+duarum literarum permutationes duo nempe ab, ba3 accedente nova,
+haec in quavis harum aut ante aut postponitur, aut inter reliquas; itaque
+

@@ -1,0 +1,55 @@
+BIBLIOGRAPHIC RECORD TARGET
+
+Graduate Library
+University of Michigan
+
+Preservation Offlce
+
+Storage Number:
+
+ACA7836
+
+ULFMT Β RT a BLmTlC DT 07s18s88 RJDT 07s18s88 CC STAT mm EsL 1
+010: z Ι a 41032871ssr84
+
+035 s 1: z {a (RLIN)M1UG86-B110886
+
+035s2: ε Ι a (CaOTULAS)160330417
+
+040: ι {a DLCJICU {cICU ld MiU
+
+050l120: laQA36 lb .136
+
+082J110: la 510
+
+100:1 : la Bolyais Farkas' ld 1775-1856.
+
+245:00: Ι a Wolfgangi Bolyai de Bolya Tentamen iuventutem studiosam in elementa
+matheseos purae elementaris ac sublimioris methodo intuitiva evidentiaque huic
+propria introducendis lb cum appendice triplici.
+
+250: ι Ι a Ed. 2
+
+260: : Ι a Budapesfini, lb sumpt-ibus Academiae scientiarum hungaricae, lc 1897-
+1904.
+
+300 s 1: : la 2 v. {b incl. front. (port.) plates (diagrs.) and Ι e atlas of
+
+diagrs. Ιε 30cm⁴
+
+500s1: ε Ι a With reproducfion of original title-pages.
+
+505s2:0 : la Ι, Conspectus arithmeticae generalis. Mandato Academiae scientiarum
+hungaricae suis adnotationibus adiectis ediderunt Julius Konig et Mauritius
+Rethyffln. Elementa geometriae et appendices ediderunt Josephus Kfirschak
+
+Scanned by Imagenes Digitales
+Nogales, AZ
+
+On behalf of
+Preservation Division
+The University of Michigan Libraries
+
+Date work Began:
+Camere Operatur:
+

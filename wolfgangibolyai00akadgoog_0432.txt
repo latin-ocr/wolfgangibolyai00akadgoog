@@ -1,0 +1,38 @@
+416 CONSPECTUS ARITHMETICAE GENERAHS.
+
+illius, cui postponitur, reliquae 'autem quavis migratione, uti prodeunt,
+signum mutent, atque si prodierint permutationes A, B, i . , , prius ex
+A generentur modo dicto aliae, tum ex B, et ixa porro, ac ordinentur,
+uti prodierunt, prins ex Α generatae, tuin ex B generatae, &1
+
+Regula porro est sequens. Quod si suerint tot incognitae quot aequa-
+tiones primi gradus, et coeffieiens ipsius x sit litera a, coessiciens ipsius
+y sit litera b, ipsius Z litera c et ita porr03 quaevis in prima aequatione
+sine accento, in secundo cun] nno, in tertia cum duobus. et ita ρωπος
+ad dextram vero sit litera sequens post omnium coefficientium literas
+cuin eodem accento, quae in aequatione est, litera ista vero denotet
+partem aequationis cognitam, ita ut alterius membri, quod ad sinistram
+est, quivis terminus sit factum ex incognita in cognitam3 tum in deno-
+minatore describantur literarum coefficientiuxn permutationes omnes quae
+literas illas ornnes continent, illo ordine quo inodo dieto prodierunt,
+atque iis signis afficiantur, quibus prodierunt. Tum pro valore cuiusvis
+incognitae scribatur in numeratore supra literam coefficientis incognitae
+illius litera, quae ad dextram est, praeter hoc vero supra quamvis lite-
+ram denoininatoris ponatur in numeratore quoque litera eadem, et
+signa —0-, ᾈ eadem sint in numeratore, quam in denominatore; et in
+quovis termino tam muneratoris quain denominatoris litera prima sit
+sine accenio, quaevis sequens vero acquirat unum accentum,
+
+Demonstratione ingeniosa et elegans haec lex digna videtur. Si valet
+haec regula de quotvis incognitis usque ad certum numerum ν incogni-
+tarum, a 2 incipiendo, demonstratur valere etiam de numero incognita-
+rum uno maiore, atque verum est de 2, de 3, . . . incognitis ab induc-
+tione, eff.
+
+I. Exprimantur literae muneris, primae incognitae x coesficiens α nu-
+mero 1, secundae y nurnero literae ipsius, nempe per 2, 55.
+
+Multiplicentur omnes aequationes praeter ultimam, prima per m, sequens
+per n, tertia per p, quarta per tl, Εἴ . . , Sint m, n,j³, q, . . , integri, tum
+subtrahatur ultima aequatio e summa priorum, atque in differentia pona-
+

@@ -1,0 +1,39 @@
+SECT10 PRIMA. 53
+
+Vi Sed quaeritur (ᾗ 13⁴), si T finitum sit, et constet ex aliis partibus
+“stru- etiam: num quocunque ordine additae partes quaevis, e quibus
+constat, summam eandem dent? Generaliter addita, etsi adfuerint posi-
+tz'vcz et negativa qnoque, summam quocunque ordz'neposita eandem edunt.
+
+Exprimantur quantitates rectis, et generetur summa juxta (§ 112),
+atque donec aliud monitum fuerit, dum recta unu dicetur alia minor,
+concipiatur illa extremo communi iu hauc cadente parte ex hae promi-
+nente superari. Consideremus prius tantum A et B, quavis determinatio-
+num ffl Η affecta, et tum fiat conclusio ab n ad 7241 (F. pag, 21⁴), Sit
+(Fig 4,) in p initium primum, et extremum ultimum sit ρ’, sitque prius
+A ὲ B, erit aut utrumque positivum, aut utrumque negativum, aut uuum
+positivum, alterum negativum, si utrumqne positivum sit, sive A ponatur
+prius, sive B, cum congruant, idem est, ita quodvis postponatur, idem
+p' prodit ad dextram; idem fiet ad sinistram, si utrumque negativum fuerit,
+si opposita siut, et A ponatur ex p ad dextram, atque ab eius extremo
+sinistrorsum ponatur B, rectae etiam ita congruunt (vide iufra), adeoque
+p et p‘ coincident, et summa est ος atque manifesto idem fit prius B
+sinistrorsum, et ab eius extremo dextrorsum posito A. Si vero A superet
+ipsam B recta K (Fig. 5,), et ponatur ex p prius A dextrorsum, et inde
+B sinistrorsum, cadet ρ’ a p ad distantiam Is, et idem p' prodibit, prius
+ex p ad sinistram posito B, atque inde dextrorsum posito A (ex B et K
+constante). Si A positivo et Β negativo manente, A superetur a Brecta
+K, erit (Fig, 6.) summa Κ ad sinistram a p manifesto in utroque casu.
+Itaque duze rectae qualicunque determinationum q« >—‹ affectae fuerint,
+sive eadem, sive diversa, quovis ordine summam eandem praebent.
+
+Si vero hoc de quantitatibus numero n valeat, valet etium de n-l- 1.
+Nam valeat de A, B, . . ΔγΒ, et accedat E, erit E aut positivum aut nega-
+tivum, est etiam resultatum priorum aut positivum aut negativum, adeoque
+quivis casuum priorum eum quovis posteriorum eombinandus est.
+
+Sit prius mh} et resultatum prius quoque sit positivum (poterit quidem
+hoc esse aut 0 aut maius aut minus quam E, at quilibet casus modo
+sequente evidens fit). Ponatur primo *PE OEig. 7.), terminetur in p, sit
+p' resultatum priorum, et cogitetur A,B„..,D ex p incipiendo plane
+

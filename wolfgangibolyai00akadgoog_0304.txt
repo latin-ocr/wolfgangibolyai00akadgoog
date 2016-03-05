@@ -1,0 +1,36 @@
+288 CONSPECTUS ARITHMETXCAE GENERALzs.
+
+ordinataque clausae nec non tam superficiei quain soliditatis per lineam
+circa axem revolutam Ortae stabilienda sunt< Ut vero hoc fieri possity
+quaedam de lineis et partim de superficiebus dicenda sunt.
+
+1. Dum recta cuin curva comparatur, per longitudinem curvae intel-
+ligitur limesy ad quein summa chordarum (ab una extremitate curvae usque
+ad alteram ita se invicem excipientium, ut cuiusvis finis praeter ultimae
+finem sit novae initium> tendit, si chordarum quaevis tendit ad 0. Si plures
+quoque rami sinty per cuiusvis longitudinem limes talis intelligitur, et
+summa limitum erit tota curva ad rectum reducta. Demonstranduin itaque
+est dari limitem eiusmodi, eumque nonnisi unicum esse, quibusvis modis
+tendant chordae singulae ad limitem ο.
+
+Dum superficies curva C cuin plano comparatur, intelligitur per super-
+ficiem curvam limes sequens. Ponatur triangulum una cum area intel-
+lectum ita, ut apices eius in Ceadant, et quodvis latus eius sit latus novi
+trianguli verticem iu C habentis, atque cuiusvis trianguli novi hoc pacto
+prodeuntis lateri novum triangulum, verticem in C nec ullam portionem
+eum ullo praecedentium communem habens, imponatur, et cuiusvis area
+tendat ad limitem ο, Si iam detur tale reetangulum οι, ut nequeant tri-
+angula inodo dicto ita sumi, ut summae eorum limes sit >oq sed possint
+ita sumi pro dato quovis ω, ut summa eorum ab α minus ipso ω differat;
+tuin per aream ipsius C, duni cun] plano comparatiu-y ipsum α intelligitnr;
+nempe limes summae triangulorum dictorum, quorum nulla bina quid-
+quam areae commune habent7 et quodvis tendit ad 0.
+
+ln plano autem qualiscunque figura sit, ad rectauguluin eius area
+reducitur, cui si non terminata, saItem interminata aequalitate sit aequalis,
+(pag. 26) et quidem ad rectangula altitudinis, aut baseos eiusdem (unitati
+rectarum aequalis) reducuntur omnia, ut arithmetice clare tractentur, ita
+solida cuiuscunque superficiei ad parallelepipedum reducuntur, cuius basis,
+eadem pro omnibus, quadrato aequalis est, cuius latus aequale est unitati
+rectarum (pag, 27),
+

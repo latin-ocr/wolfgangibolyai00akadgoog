@@ -1,0 +1,40 @@
+224 CONSPECTUS ARITHMETICAE GENERALIS,
+
+(El-ecff.i.)ss(B-»-C÷...><*SX†⁶’
+
+sive
+
+s,-S÷‹,›<S†‘V⁶³;
+
+unde quum mmo, etiam Sx—Sffio.
+
+Est quoque manifesto derivata summae functionum quoad eandem
+variabilem (ex, gr. x) accepta summa derivatarum singularum quoad ean-
+dem variabilem acceptarum. Nempe si
+
+d(B(x)—⁴-C(x)—o-...):p>2—0-q³b-s-.i.,
+en &remane(x)÷.„)=p÷q÷.„
+
+Sed e prius dictis id quoque sequitur, quod in quovis termino seriei
+incrementorum generali cuivis quantitati ei aequipollens (eatenus quod
+summa per id non mutetur] substitui possit. Itaque si terminus aliquis
+generalis integrandus sit, poterit in eo, differentiali cuivis quodvis aliud,
+quoad quamvis variabilem acceptum suerit, dummodo omnia eidem va-
+riabili absolutae ut basi respondeant, substitui; imo si toti termino alius
+aequipollens substituatur, unam tantum variabilem (ex. gr. Ζ) continensy
+differentiale purum erit; termini aequipollentes vero integralia aequalia
+dabunt (pag. 215) praeter constantem⁴ Iino etiam si tantum derivata ac-
+cipiatur. functio primitiva quoad Z eadem prodibit.
+
+18. Ut Tyrones primis elementis aliquantum imbuti ad sublimiora
+progredi animos capiant, exemplis quibusdam facilioribus (tam e Geo-
+metria quam e Mechanica) applicationem theoriae dictae illustrare libet;
+prius certarum functionum absolutarum valoris noti differentialia deri-
+vatasque referende· ς tum certarum functionum absolutarum, quarum valor
+quaerendus est, differentialia et derivatas exponendo; atque priora cum
+posterioribus (iuxta pag. 208) comparando; ut si aequipolleant, valores
+quaesiti innotescant.
+
+Supponuntur [paulo inferius demonstranda) sequentia, x,u,v‚z‚p,.<.
+ut sub (17.) intelligendo:
+

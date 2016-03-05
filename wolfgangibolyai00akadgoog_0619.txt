@@ -1,0 +1,49 @@
+senno QUARTA 603
+
+Nam Α χοε-μί) -ι- c — [A [x)÷c) = A (οε-μί) - Α (x).
+
+Quoad alterum autem, functio primitiva >A<x) aut <Am esse
+nequit, Si enim kAspcj esset, limes fieret λέληθε), quum D(x) [praeter puncta
+discreta) valoris determinati finiti et non ο sit.
+
+c. Hinc si functio A(x) quaeratur et reperiatur functio nota B(x)
+talis, ut limite augmentali quoad eandem variabilem eodem gaudeant,
+erit
+
+A (x) = B<x) »ὶ- constans.
+
+Subit igitur heic limes augmentalis superius dictae seriei mediatricis
+vicem.
+
+d Constans autem sic reperitur: si pro quovis x (a β usque ad y) sit
+
+A [x] z B (x) -ι- constans,
+et sit A(lz]:a‚ erit
+
+A (h) z B (lt) ›4- constans z α,
+adeoque
+constans z a — B (h),
+ut supra.
+
+ε. Limes dictus methodo de differentiali dictae analoga quaeritur.
+
+9. Exempla pro methodo utraque:
+
+a⁴ Pro coordinatis rectangulis derivata areae A(x) in plano est ordi-
+nata y et differentiale est yx.
+
+Sit enim ex, gr. pro ordinatis crescentibus (pag, 598> V(x) summa
+reetangulormn e quovis εἷς et ordinata e fine eius erecta, Uspe] autem
+sit summa rectangulorum item e quovis οὲ et ordinata ex initio eius
+erecta: erit
+
+ 
+
+V> A 1> U
+et v(x»a<x‘›>usx)‚
+atque V X
+v (σε) s* 1
+u (x)
+
+75⁸
+

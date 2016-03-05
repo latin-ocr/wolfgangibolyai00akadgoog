@@ -1,0 +1,37 @@
+CONSPECTUS ARITHMETICAE GENERALIS.
+
+SECTIO ιιιΔ
+
+PRIMAE LINEAE THEORIAE AEQUATIONUM.
+
+§. 38-
+
+Ramorum in quos arbor (pag. 205) dividitury is etiam quadamtenus
+explicandus est, ubi pro dato valore α functionis valor variabilis in ea
+quis sit, quaeritur; vocatur haec theoria aequationum*
+
+Si ex, gr. quaeratur, quodnam a sit ipsi x substituendum, ut sit
+
+f(x) z xm ⁷b-px’'¹*'—k- qu‘2 ÷ . . . -Ι- tx⁰ Ξ 0⁴
+
+L Si m integer positivus sit, et in quovis termino sequenti expo-
+nens ipsius x unitate decrescat, usque ad x⁰:1, atque p, q, , , . constan-
+tes sinty dicitur aequatio gradus m-ti; atque si Λᾶς) ad formam
+
+xm-kpxmjstff- . . ⁴ -ὶ- tx⁰
+
+reductum sit, aequatio nrdz'nczta vocatum a vero dicitur radix acqua-
+
+tionis. Nempe coeffieientium p, q, , . . possunt esse quilibet, iulo omnes
+=0; adeoque pro
+xm: 0
+erit
+x z '170' z ο,
+
+et pro
+
+ἢ xm -ο- t ε 0
+ent
+
+x=f7fm
+

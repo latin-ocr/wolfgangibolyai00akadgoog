@@ -1,0 +1,47 @@
+156 CONSFECTUS ARrrHMETICAE GENERALlst
+
+(l-k-x)² =x² -i—2x -ο- 1
+
+(14x)³—x³-0-3x² ›e- 3x -ι- x
+(14x)’=x·÷4x³—0- ‹3x2 -1- 4x—k-1‚
+L1÷x)⁵=x⁵-i-5x⁴-o-10x³÷10x²÷5x÷1.
+
+Ita ulterius quoque computando. animadverti possunt sequentia.
+
+1. Exponens summus ipsius x est exponenti binomii aequalis, et
+in quovis sequenti termino uno decrescit, usquequo in ultimo x⁰:1
+fiat. Unde etiam patet idern de quovis exponente uno altiore; nam si
+κὼς series per 1÷x multiplicetur, ῐ exponentem ipsius x non, x vero
+quemvis uno augebit.
+
+2. In quavis harum serieruin sunt coefficieutes a primo ad dextram
+nsque ad ultimum, et ab ultimo ad laevam usque ad primum iidem.
+
+3. Sint in serie tali per 1÷x multiplicanda, ax⁷⁷¹†s3x⁷n-1 duo ter-
+mini quivis proximi; erit (xxm, xzaxm, nec ullus alius terminus per
+1 multiplicatus xm producet, &xm-1. x verozssxm, neque ullus alius ter-
+minus per x multiplicatus xm producet; itaque coeffieiens ipsius xm in
+facto erit (ιι-μβ).
+
+4, Coefficiens termini primi est Ι, coeff. secundi est coeff. primi per
+exponentem, quem x in hoc habet, multiplicatus, at coeff. secundi per ex-
+ponentem, quem x in hoc habet, multiplicatus, est duplum coefficientis
+tertii; et ita porro in omnibus his casibus, coefficiens termini m-ti per
+exponentem, quem x in termino msto habety multiplicatusy est m-tuplum
+coefficientis (νη-1- 1)-ti.
+
+Unde si hoc de (1÷x]n-¹ valeat, erit
+
+(ηῐῐ) (n 2)
+2
+
+÷<n (1121) 32><n 3)
+
+<1—0-x]’t- ¹:x72- ¹÷[n— 1)x⁷¹⁷²-i- ατη-34-
+
+κηῆὶ-μη, -0-x0;
+
+nimirum duplum eius, quod quaeritur, per 2 dividi debet, uti triplum per 3,
+in genere m-tuplum per m.
+Si vero de (i—e-x)⁷‘*¹ valet, valet etiam de (14-xJn-1 (ht-x), id est
+

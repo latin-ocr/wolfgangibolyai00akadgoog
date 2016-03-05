@@ -1,0 +1,39 @@
+402 CONSPECTUS ARITHMETICAE GENERALIS.
+
+et factum F per aliquam aequationem simplicem negativam, et quod
+prodit per novam negativam, et hoc item per novam, si adfuerit, inulti-
+plicentur, donee nulla supersit, aut inverse factumf e negativis per
+positivus simplices modo dieto multiplicetur
+
+Si iam uumerus aequationum simplicium, adeoque radicum, positiva-
+ruin sit η, et numerus negativarum adeoque numerus radicum negati-
+varum sit m: atque demonstretur a) f per aequationem simplicem
+positivam multiplicatam unum transitum novum acquirere, et quodvis
+sactum ita prodiens per aequationem simplicem positivam multiplicatum,
+unum transitum novum nancisci; multiplicatione per omnes aequationes
+simplices consummata, patebit, in f(x> ad minimum n transitus dari. Ita
+si demonstretur h> F per aequationem simplicem negativam multi-
+plicatum unam successionem acquirere, patebit, in fix) ad minimum m
+successiones adesse. Atque quum numerus omnium successionum, sive
+aequalium sive inaequalium, iu flx‘) sit n-i-mzflz, quum ,ιι-Η termini
+sint, plures transitus quam 72 dari nequeunt3 nam tum m nempe numerus
+successionum imminueretur, quem dari constat, 71 transitus vero certo ad-
+sunt, ita m successiones adsunt, nec plures esse possunt, quia tum n
+numerus transituum imminueretur⁴ Consequenter plane n transitus, nempe
+quot radices positivae, et m successiones erunt, nempe quot radices
+negativae.
+
+Itaque nonnisi a) et b> demonstranda veniunt,
+
+Quoad α) Sint multiplicandi signa quocunque ordine, et multipli-
+cator sit aequatio simpIex positiva, ex. gr. x—a, pro α positivo; erit,
+si tantuin signa coeffieientium scribantur et in sacto coefficientes poten-
+tiae cuiusvis ipsius x addantur, schema sequens, notando, quod coessiciens
+termini primi in utroque factore sit 1, atque terminus primus facti sit
+1.1, coesiiciens uno altioris potentiae ipsius κς postea vero signa plane
+multiplicandi in linea sacti superiore describantur, quum multiplicatio per
+x omnia signa immutata relinquat; multiplicando per fia autem eadem
+signa iu contraria mutata, sub secundo superioris incipiendo, uno ulterius
+terminentur, utque quodvis 'az-tum seriei superioris et iit—rmum iuferio-
+ris simul coesficientern potentiae exponentis μὴν-με ipsius x efficiant3
+

@@ -1,0 +1,43 @@
+492 CONSPECTUS ARITHMETICAE GENERALXS.
+
+ritus, qua per 10 signa quivis integri l et ί, imo et {F describi possunt.
+Utcunque vocatus Auctor et sine nomine viget, vigebitque in omnibus
+calculis.
+
+Romanorum et facere et pati fortia fuit: sed mirum est, Graiorum
+quibus Musa ingenium dederat methodum tau] complicatam, imperfec-
+tamque fuisse; nempe qui 37 signis, ab 1 incipiendo continuative, non-
+nisi usque ad 99 999 999 (decadice intelligendo) scribere poterant3
+quamvis eorum modo quoque levi additamento, quivis numerus describi
+potuisset. Nempe 1, 2 . , , 9, per literas α, β . . . , ita 10, 20 . . . ,
+90, 100, 200 . ⁴ , , 900y 1000y 2000 . . . , 9000, per literas, et quum non
+sufficerent, accentis suppositis, aliaque signa denotabant; atque demum
+10 000 nempe myrias per M denotabatur; regula vero haec erat, quod
+post M eorum quae signa particularia denotabant summa, ante M vero
+(ad laevam) factum in M accipiebatur summae eorumy quae signa particu-
+laria ante M deuotabant3 ex gr. βΜα denotabat 200013 at per MM
+denotari 100001000οῑ100 000 000, ac post MM adhuc id quod MM—1
+M²—1 denotabat, scribi potuisset.
+
+Potuissent quoque et hoc modo, posita lege sequenti, numerum
+quemvis describere, et omnia peragere: nempe ubi plura M se invicem
+excipiunt, productum eorum intelligatur, et quaevis imago sive ab initio
+usque ad proximum My sive inter duo proxima M fuerit, ut factor
+proximi M ad dextram reputetur; alioquin autem sumina oxnnium intel-
+ligatur. Multa ob defectum cistarum breviter exprimunturg ex gri
+MMMorMMssMu Ξ billioni >i- 100 millionibus-o- 20001, Ξ M³ -ι- M² -1-
+-l- 2M÷1.
+
+Simplex et elegans lex Indica est sequens:
+
+1. Detur numero cuivis a 0 incipiendo signum propriumy usque quo
+libuerit; atque
+
+2. ponatur aliquorsum comma in lineam horizontalemy et
+
+5< quodvis signorum diciorum ponatur ante comma ad laevam, deno-
+tet id illud, cuius signum est3 at
+
+4. si uumerus signorum datorum simul curn 0 fuerit n, quaecunque
+eorum aequalia se invicem in linea dicta excipiant, valor illius quod aa
+

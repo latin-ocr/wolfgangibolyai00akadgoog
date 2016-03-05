@@ -1,0 +1,41 @@
+64 CONSPECTUS ARITHMETICAE GENERALIS.
+
+item e residuo ipsius nu -μω, et quaevis nova vacuitas item inde expleatur
+in infinitum; vacuitates istas explentia sunt partes ipsius nu-i-cu (ex iis
+e quibus nu-a-cn constat); itaque ω’ accipi ex A omni dabili pluries
+posset.
+
+XIX. Adjicere adhuc quaedam de aequalitate terminata liceat, quan-
+titatibus heic, uti sunt (sine reductione) consideratis.
+
+1. Si 24sz0, est etiam Axe (aequalitatem heia terminatam,
+nisi aliud monitum fuerit, intelligendo).
+
+Nam constet Α ex a, a¹‚...,u; B ex h, h',...‚v, item ex β, β’,..,,7]’;
+et Cex c, c'‚...,2‘, ac assb, a'ssb'w. et ussv, atque ssssc‚ ffssc',... et
+v'sst (accento iam non sensu XVI⁴ et sequ. accepto). Fiat initium eum ρ’,
+progrediendo usque ad τίς est stant aliquod ipsorum b, b‘‚.. . , v, aut constat
+ex aliquo vel aliquibus, aut simul etiarn (vel tantum) portione vel portio-
+nibus eorundem cuivis tali autem, quod aut aliquod ipsorum b, b',„.‚v
+aut portio alicuius eorum est, respondet aliquod ipsorum α, u'‚...,u, aut
+in casu posteriore aliqua portio alicujus ipsorundem absolute aequalis.
+Itaque si c in illas portiones discerptum cogitetur, quum csssi sit, cuivis
+earum datur in Α absolute aequalis, Pariter c'ssff considerato, ipsi ε’,
+aut portionibus ejus omnibus reperientur in A absolute aequales, et quidem
+cum prioribus nullam portionem communem habentes3 nam si aliqua
+portio bis occurreret, ‘tum a,a'‚.i⁴ portionem haherent communem (contra
+IVAJ. Ita percurrendo singula e‚e'‚...,t et ssss,...‚v', ubi ad t adeoque ad
+v' perventum est, atque ex C nil superest, neque ex B supererit (XVHU,
+adeoque neque ex A.
+
+Consequenter A==C aequalitate terminata.
+
+2. Sz' ΡΞ Q, et portio quaevis p ipfl'us P dematur anclevz's, atque
+portio quaevis q zspsius Q dematur, el pssq; erun! illa, quae ex F
+et Q remanent, aequalitate terminata aequalia. (Fig. 17.).
+
+Nam dicatur P* id, quod superest ex Ρ praeter p, et ρ’ id, quod
+praeter q ex Q est, et sit β id, quod congruentibus P et Q ipsip ex Q
+congruit, et q' id, quod tum ex Ρ ipsi q congruit; et dicatur R eom-
+plexus omnis ejus, quod praeter p et q' ex Fest, et R' complexus omnis,
+

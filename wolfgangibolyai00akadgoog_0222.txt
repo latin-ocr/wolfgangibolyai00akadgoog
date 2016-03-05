@@ -1,0 +1,44 @@
+206 CONSPECTUS ARITHMETICAE GENERALIS.
+
+et quaeratur talis, quae si variabili substituatur, functio certa qualitate
+praedita sit: calculus varz'atz'onum dicitur. Ex. gr. dum linearum aream
+certam claudentium minima quaeritur (sub hac vel illa conditione)⁴
+
+Si variabilis quaevis nonnisi integros denotet: quaestiones e superi&
+ribus promanantes naturam numerorum concernunt. Si ex. gr. functio
+sit 4x-}-1 et x tale sit ut 4x÷1 numerus primus sit, functio gaudebit
+illa qualitate ut duorum integrorum ad 2 elevatorum summa sit (et quir
+dem unico tantum modom at non ut hac qualitate gaudeat, primus esse
+debet. Ramus hic Arithmeticae immensus sagacitatem ingenii maximam
+postulans flores fructusque veritatis purae aeternaeque praebet. Vide opus
+immortale: Dz'squz'sz'tz'wes Aritlzmetz'cae Auctore C. F. Gauss 1801
+Lzspsz'ae.
+
+Ad (3,) pertinet: quod si Axa÷Bxb νι-Η. pro quovis valore ipsius
+x sitzo, quilibet coefficientium estzo,
+
+E (2.) vero pluribus modis calculus differentialis originem capit
+et variae promanant series: si nempe conditio ea sit, ut in functione
+ipsius x substituatur ipsi x (generi onmis quantitatis, quae est a ο usque
+ad a) prius st Ψ ⁷²⁰(
+
+n , tum Ῑ, dein ἒξ et ita porro usque ad Ἕκ. Attamen ut
+
+clarius exponatur, prius distinctio denotatioque functionum praemittenda.
+
+Ι, Functi0,cui11s valor pro quovis determinato valore variabilis,
+quae in ea est, numerabssibus eiusmodi operationibus prodit, quarum
+quaevis est addere aut multiplicare (imo etiam radicem gradus com-
+mensurabilis extrahere), dicitur algebmzica, si vero valor dietus non-
+nisi innumerabilibus eiusmodi operationibus reperiatur, functio transcen-
+dens audit.
+
+Dicitur porro quoad valoresfmzctz'o mjformz's, si valores eius numero
+m sint (pro determinato valore variabilis in ea]⁴ Ex. gr. ys} est functio
+biformis.
+
+Si vero seza per integrum n dividatur et n tendat ad 00, dicitur x
+variabilis absoluta, atque si valor functionis ipsius x (pro valore eodem
+ipsius x) pro quovis n sit idem, functio absoluta dicitur. Ex, gr. in figura
+(19.) F-l-G-t-H—b-f—l—g—l-lz mutato n inritatur.
+

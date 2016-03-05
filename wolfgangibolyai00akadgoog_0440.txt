@@ -1,0 +1,39 @@
+424 CONSPECTUS ARITHMETICAE GENERALIS.
+
+pro μ pari Dim-'l' cum signo -ffi- itaque facturn Dim-”⁷ iuxta regu-
+lam quoque-signum — habehim valeri ipsius x etiam satisfaciendo.
+
+Si vero μ impar fuerit, prodibit Dill‘fflf iuxta regulam cum signo -Η
+itaque quum et praecedentes permutationes denominatoris signis legi con-
+trariis praeditae sint, tam muneratoris quam denominatoris oppositum
+accipiendo, valore ipsius x immutato, signa legi quoque convenient3
+nempe tum etiam -Dfflt‘Jl' in -θ- 01(μῖ’)’ mutabitur.
+
+Quod autern e solo termino denominatoris primo ad omnes concludi
+queat, patet sic. Quaevis permutatio fuerit in translatis, quibus x modo
+dicto exprimitur; illa ex aliqua primitivarum dictarum orta adposito Ι in
+denominatore iuxta accentum eius, et supra id μ -ι-Ῑ, eum ea signum
+idem habet in expressione ipsius x, abstrahendo a lege Bsszouvr-i. Facile
+autem perspicitur, quod permutatio quaevis rerum certarum e quavis per-
+mutatione earundem produci queat, permutatione unius aut plurium cer-
+tarum cum immediate praecedente ad laevam certo numero facta, et
+quaevis eiusmodi permutatione signum per legem Emeum mutetur; atque
+etiam dum in primitiva permutatur aliqua cum praecedente ad laevam,
+et in translata eius mutetur signum* Atque hinc patet quod si prior per-
+mutatio superius dicta legi convenerit, conveniant omnes; si uon, tum
+omnes signa contraria habeant. Quae uberius exponere, tam prolixitas
+vitanda quam brevitas necessaria vetat.
+
+Consequenter de x regula generaliter valet3 nempe sive par sive
+impar fuerit μ, valet, si de μ-Ι valet; valet autem de duabus, tribus,
+et quatuor incogniti53 itaque valet de quinque, et hinc de sex, atque
+inde de septem, et ita porro.
+
+Parique modo de reliquis incognitis demonstrando generaliter constat,
+
+§. 41.
+
+Si autem aequationes gradus primi pauciores fuerint quam incognitae
+(pag. 373]; tum accipiendo tot incognitas, quot aequationes datae sunt,
+earum valoribus quaesitis, reliquis incognitis arbitrarie quidvis substitui
+

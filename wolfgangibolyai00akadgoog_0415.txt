@@ -1,0 +1,37 @@
+sec-no TER-rm. 399
+
+x²÷ [—<1 “fix-bah,
+et hoc multiplicando per x—c fiet
+x3-9-(—a —b*c)x²÷(ab÷ac÷bc)xaabc,
+
+et idern porro continuando donec libuerit, eousque patet; quod, si lite-
+rae ab x diversae eo signo accipiantur, uti in factoribus x—a, x—b,
+sunt, denotantes radicum opposita, coeffieiens primus sit summa litera-
+rum dictarum, secundus sit summa amborum, tertius summa ternorum,
+m-tus sumnia m-ionum, quae e literis dictis accipi possunt, et quidem
+ita ut quaevis m-io factum ex iis literis sit e quibus constat, ex. gr. pro
+m=2‚ si ambo e literis —a et —b sit, accipiatur (— a].(— b)=ab ; ad
+finem vero coeffieiens ipsius x⁰ sit factum ex omnibus literis dictis, quod
+igitur seme] tanturn est.
+
+Si vero de prodeunte P e numero n factoribus eiusmodi valeat lexg
+valet, etiamsi (n—1-1)-tus factor accedat. Nam sit novus factor x—d, et
+sit —czza', —bzb'‚ t . A, —dzd', atque sit coesficiens m-tus M aequalis
+summae m-ionum, quae ex n literis α’, b¹‚ . A A accipi possunt, et (m ÷1)-tus
+eoefficiens sit Naequalis summae (m-t-Iiionum, quae ex iisdem α’, b', . . .
+(excluso οῖ’) accipi possunt. Multiplicato P per terminum priorem ipsius
+x—d, augebitur exponens ipsius x unitate in quovis termino, adeoque
+et aequatio uno altior prodibit; faetor -d scilicet exponentes ipsius x
+non mutat⁴ Est autem in P terminus m·tus (haud numerato primo, ubi
+potentia altissima ipsius x cum coesficiente 1 est] Mxn-m, et sequens
+est Nxa-m-i, atque muitiplicando P per x—d, potentia exponentis
+n -m ipsius x nonnisi ex Mx‘ffm per — d, et Afx⁷'‘m*¹ per x multi-
+plicato prodire potest; terminus itaque facti, in quo xri—m est, fiet
+[Ν-4- d'M)xn-m; est autem hic terminus (m—0-1J-tus in novo facto ab
+x”*¹ (excluso hoc) numerando usque ad x⁴²‘m; atque Neontinet om-
+nes 'im ÷1)-iones quae ex a‘, b', excluso d' accipi possunt, M vero
+omnes miones ex iisdem, quae singuiae per d‘ multiplicatae exhibent
+omnes [m -4-1)-iones, ex α’, b', . . ., αἶ’, quae ipsum d' continent.
+
+Quod ultimum attinet, is dum per d‘ multiplicatur, prodit α’ b' . . Α d'3
+

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./wolfgangibolyai00akadgoog_0711.png"; bbox 0 0 1346 1729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 962 224 1158 249">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 962 224 1158 249">
+     <span class='ocr_line' id='line_1_1' title="bbox 962 224 1158 249; baseline 0.01 -8"><span class='ocrx_word' id='word_1_1' title='bbox 962 225 1001 242; x_wconf 68' lang='lat' dir='ltr'>&#39;sab</span> <span class='ocrx_word' id='word_1_2' title='bbox 1006 224 1048 242; x_wconf 70' lang='grc' dir='ltr'>ἯῙΙ4</span> <span class='ocrx_word' id='word_1_3' title='bbox 1054 225 1073 242; x_wconf 75' lang='lat' dir='ltr'>Fi</span> <span class='ocrx_word' id='word_1_4' title='bbox 1079 229 1117 249; x_wconf 63' lang='lat'>554⁰</span> <span class='ocrx_word' id='word_1_5' title='bbox 1126 230 1158 243; x_wconf 66' lang='grc'>44,</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 974 1596 1242 1653">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 974 1596 1242 1653">
+     <span class='ocr_line' id='line_1_2' title="bbox 974 1596 1242 1653; baseline 0 -17"><span class='ocrx_word' id='word_1_6' title='bbox 974 1620 1039 1636; x_wconf 46' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_7' title='bbox 1049 1596 1242 1653; x_wconf 34' lang='lat' dir='ltr'>&amp;Google</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

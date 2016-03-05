@@ -1,0 +1,51 @@
+SECTIO SECUNDA. 341
+
+sitque q=1=tangenti dimidii quadrantis pro radio 1 ι erit aretg. 710,
+fietque arcus tangentis dimidii quadrantis pro radio 1, nempe pro hoc
+casu k(q):arctg.(7-0-q) z arctg.0-1-q fiet (ut pagi 334)
+
+—0-0-1—{5-2-{0—ss74- , . ,ς
+
+atque complementum est inter 0 et
+
+>⁴14233 , . . (γι-ἠᾳγείηἱεείηηκκ
+
+1.2.3..<(7f—1]v
+
+ 
+
+ι
+
+quod uso, dum νικος), quum nullus sinus sit maior unitate et alter factor
+{Jffia
+Unde tota peripheria est octuplum huius serieiy et peripheria per
+
+ὲ multiplicata praebet aream duplo huius seriei
+
+quartam radii id est per 4
+
+aequalem pro radio 1.
+
+14. Nec silentio praeteriri potest, quomodo Taylorz‘anum ad plures
+variabiles applicetur; atque inde differentiale functionis plures variabiles
+involventis sit summa differentialium partialium quoad singulas variabiles
+seorsim, reliquis constantibus suppositis, acceptarum.
+
+Considerentur prius duae tantum variabiles; atque F(x‚ y) dicatur u,
+et functio eadem, si variabili x addatur ω ipso y constante posito, dica*
+tur U, atque si in UzF(x-l-c0‚y') ipso x constante posito addatur
+λ ipsi y, functio U ita mutata dicatur υς et pro x, y utroque variabili,
+atque addito ω ipsi x, et λ ipsi yy functio F<x÷w, y-l-kl dicatur V.
+Quaeritur V ex u, atque dV et w'unaeritur.
+
+Est (pag. 321)
+
+F<x÷m‚y]:U=u÷m¹a¹-a-E2² Ζιί-μὲἕξὶ-ΡΗ
+Ita
+λ 2Η-ι-ᾸῖζΙ-μη,
+
+F(x÷c0‚y÷2„):V= Ηψλζζ-μξ y 23 W
+
+Substituatur cuivis termino seriei posterioris valor e serie priore;
+nempe pro U ponatur
+

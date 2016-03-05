@@ -1,0 +1,38 @@
+428 CONSPECTUS ARITHMETICAE GENERALIS.
+
+Nam sit n imago ipsius Nfactoribus primis expressi, et sit N: a: Q,
+adeoque NzaQ, et sit q imago ipsius Q factoribus primis expressi5
+erit φῖ et aq imago eadem (per ΔΓΑ. Itaque α adest in n, pariter quivis
+ipsorum b, . . . adest; consequenter quilibet eorum ita ordinari possunt,
+ut partem imaginis constituant.
+
+Conversim quoque integer P integrum N nonnisi ita metitur, si Ρ
+factoribus primis ita exprimi queat, ut imaginis aiicuius, qua N factori*
+bus primis exprimitur, partem constituat. Nam si NzP.M, et N, P,
+atque M factoribus primis exprimantur, imago eadem ipsius EM, quae
+ipsius Nerit.
+
+6. Num vero numerus aliquis per se primus, aut e primis compo-522
+tus, ut dici solet, fuerit; de hoc videatur opus (pag. 206) citatum. Vul-
+gare est, numerum quemvis primum (numero 3 maiorem] formae
+
+ssnss1=2.3nss1
+
+esse debere, quamvis conversim non sit quivis (ex, gr. 25) formae (mssi
+primus, Nempe si integer N per ὁ dividatur, sit quotus q, residuum est
+ipsorum 1, 2, 3, 4, 5 aliquis, si 2 vel 4 sit, tum N par est, si 3 sit, tum
+
+N=2.3.q÷3=3[2q-i-1);
+si residuum 5 sit, tum
+N=2i3q÷2.3—1=2<3[q÷1)—1,
+
+seu 6n—1. Itaque nisi residuum 1 aut 5 sit, idest Nsub {ormam &141
+vel (uz—1 veniat, compositus est.
+
+7. E prioribus etiam divisor communis maximus plurium integrorum
+factoribus primis expressorum, necnon minimus eorem, (luem datorum
+quivis metitur, reperitur. Nempe quoad primum eiusmodi imago J {ac-
+torum primorum construenda est, in qua nonnisi talis factor occurrat,
+qui in quolibet datorum adest, et quivis adsit toties, quoties adest in
+datorum quovis, nec pluries adsit in omni quovis eorundem nam tum
+

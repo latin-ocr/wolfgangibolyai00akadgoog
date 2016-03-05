@@ -1,0 +1,43 @@
+SECTm QUARTA. 591>
+
+2, Patet seriem ex Αζκ) derivatam esse xersem incrementorum fun-
+ationis (a ,Ae usque ad y) ipsis οὲ respondenlz'zmz, numerumque terminorum
+esse η-,α et (tome) incrementum m-to dc respondens esse.
+
+3. Aeqtcipollenlz'a termini u(mx) seriei cuiuspiam δ’ cum termino
+generali αίνηίε] seriei incrementorum ex A(x) functione absoluta deri-
+vatae S per
+
+u(flnab)÷a(m0b)
+designari potest, atque sine λ (pag. 594¹] quoque ope seriei sie definiri
+potest: si S et S* fuerint series terminorum numero aequalium ita, ut
+cuivis m>to αὶ duo termini simultanei et cuivis alii alii respondeant, atque
+pro utvis magno N detur tale n, ut pro eodem n quivis termini u (mab)
+et asma'e) fuerint sibi invicem respondentes simultanei, sit aut
+
+u (vacek-(2 [mdc] πο,
+aut
+
+u (ruffi—(1 (mx) <1 {V a (mdc),
+
+saltem si non de omnibus valeat, exceptorum summaffio, dum n‹*00:
+
+tum dicitur
+u (moi) ἐ a (mic).
+
+Patetque esse aut S=A aut S‘*A; adeoque si et B(x) functio
+absoluta adfuerit, atque
+
+α (ηυξ) ὲ brjnx),
+
+esse etiam aut 8:ss aut S'VQB, consequenter esse 14:113.
+
+Unde etiam S series medmtm'x, et u(me terminus mediator sive
+sensu generaliore dfferentmle cuiusvis ipsorum A(x) et B(x) sive
+alterutrius tantum, si sola consideretur, dici possunt.
+
+4. Quamvis igitur expressio quaevis termino generali seriei incre-
+mentorum functionis absolutae aequipollens, sensu generali differentiales
+functionis illius, et haec ipsa integrale illius¹dici possint: expressio tamen
+quam simplicissima quaeritur, atque dfferentz'ale sensu stricto nonnisi
+

@@ -1,0 +1,43 @@
+556 CONSPECTUS ARITHMETICAE GENERALIS.
+
+Ι.
+FmMAE LINEAE THEORIAE COMEINATIONUM-
+De combinationum ex n rebus iuxta certum numerum m, adeoque
+
+amborum, ternorum ΕΞ, nec non numero permutationum, diotum pag.
+159 est.
+
+ᾗ, 1.
+
+Numerus onmium comhz'natz'onnm ex n rebusy id est summa umr-
+rum, amborum, ternorum ὃν . ⁴ . usque ad n-tum inclusive, est 21⁷——L
+Nam summa ista est
+
+n.(n—x> vuffa—¹) . , . 2.1
+
+ 
+
+ 
+
+ 
+
+n-4- ἶΧ-ο-..η ε —vff 1·
+2 1⁴2..r(n-11.n ’
+quia
+„1 › nr'nssn n (η-ιι ..2 1
+(mn ¹¹³2& 2⁷ Ὗ· ¹ ῐ Ξ, ’Ἶῐῖψη n
+§, 2
+
+Variam vocatur, si una litera pluries occurrat, permutatio vero, si
+res eaedem alio ordine se excipiant.
+
+Variationis leges variae dari possunt. Ex. gr. ut inter m literas, e
+certis n literis acceptas, plane certa poni possit certo numero, deter-
+minatum quendam hand superante, et alia alio . . . Ita Iex esse potest,
+ut quaevis poni possit etiam m-ies; ita lex esse potest, ut inter m lite-
+ras semper occurrat aliqua n-ies, aliqua q-iesy aliqua rries, et ita porro,
+Vocatur imago m, ι, 2, 3, literarum m-io, Unio, Bz'nio, Ternio &g
+quaeri semper potest pro Iege data quaenam m-iones dentum et in summa
+quotnam uniones, bimonesy terniones 85² sint. Praeterea postulatur etiam,
+ut tam combinationes sine variatione et permutatione construantur claro
+

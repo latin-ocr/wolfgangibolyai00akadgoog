@@ -1,0 +1,44 @@
+220 CONSPECTUS ARITHMETICAE GENERALxs.
+
+w, sive a tempore sive a velocitate, qua tum gaudet mobile, sive a spa-
+tio eousque percurso dependentia certa tribui potest.
+
+Quaecunque sint variabiles y,Z‚... ab absoluta x utcunque (etsi tan-
+tum suppositive) dependentes: denotetur illud y, quod cum 11151 simul
+ponitur, par yiynd'J, et z'llml Ζ, qzlod item lum ponitur, par z( (11111)
+
+Unde seriei ex A (x y.‚ )fnnctione absoluta derivatae terminus gene-
+ralis (differentiale verum ut supra) est
+
+A(mx,y(mx)‚. )- Α((1η-1)κ)((111-Ι]κ ἐσμ.) ..)
+
+Deuotetur autem
+
+⁴ ytmxl— y((m—1)x) per 3¹1,
+
+lta Ζ(111χ)-Ζ((111ἠι)κ) per ἐ,
+
+mi ...........
+11111-(111-ι)5ε;οέ,
+
+observando punctum nonnisi literae variabilem absolutam denotanti iin-
+positum significare illam per n divisam (nisi aliunde constet) atque
+
+οέ,)“1,,έ,... semper pro quovis supra dicto et eodem valore ipsius 111
+intelligi.
+Si iam seriei ex A(x,y...i] — quotvis insint variabiles —- derivatae
+
+terminus generalis aequipollet tali expressioni, in qua, si pro 111ρέ ubique
+x scribatur, necnon, si adsit μήνῆ), pro eo y scribatur, et ita si plures
+adsint, nulla litera puncto insignita ut factor ad prima altiorem po-
+tentiam elevata occurrat: tum talis expressio [substituto x 195111ωὲ,
+et si adsit, y ipsi ymni), Εὖ) dicitur dzjffermzliazle strictim ipsius
+Α(>ε,31,...), Summa vero eoeffieientis omnis, per quem litera puncto
+insignita multiplicata est, vocatur coefficicns vel quotiens dzjfferantz'alz‘s
+sive brevius derivata ipsius Amy, .,,).
+
+Dum pro mx x id est nx scribitur, patet n termini ultimi nnme-
+rum csse, uti seriei arithmeticae terminus generalis per ultimum nempe
+aq-(njxstl exprimitur. Nihilominus tamen, ut Tyrones minus confun-
+dantur praecisumque rem intelligent, ubi necesse est pro dicto m'c seri—
+

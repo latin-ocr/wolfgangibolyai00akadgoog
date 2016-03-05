@@ -1,0 +1,39 @@
+406 CONSPECTUS ARITHMETICAE GENERALIs
+
+Unde si in multiplicando fuerint successiones numero N, et in facto
+descensuum numerus sit β, ascensuum numerus erit s3—1; atque etsi
+quovis ascensu Nuno minor fieret, adeoque ex N fieret Nfifflssi]y
+idern per numerum descensuum fieret N— (ῥ’-Ι)-ὶ-βῑ Ν-1-1, Itaque
+semper ubi nova radix negativa infertur, multiplicatione per aequationem
+simplicem negativum factum ad minimum unani successionem acquirit.
+
+Atque hinc pei· superius dicta assertum patet.
+
+Ex. gri x³÷x²—10x>l-8 unam successionem et duos transitus,
+atque duas radices posi‘tivasy 1 et 2, ac unam negativam, -4 habet3
+y3—y2* loy—8 vero uno transitu et duabus successionibus gaudens,
+unam positivam radicem, 4 et duas negativas, -x et —2 habeti Nempe
+radices posterioris sunt radicibus prioris plane oppositae; quum substi>
+tuto (με. 393] -y ipsi x, fiat
+
+—y3-l-y2—4-10y »- 8 το,
+et dividendo per — Ι, ut potentia suprema a signo A liberetur, erit
+y³—y²—10y —8=0.
+
+cuius radix y est opposita radici prioris, nempe y=—x. Si exponens
+potentiae supremae par sit, tum termini ad exponentes pares manifesto
+manent, et tantum termini, in quibus exponentes impares sunty mutantur
+in opposita; ubi vero exponens supremus impar est, tantum termini in
+quibus exponens par est. haud excepto ο, mutantur in opposita, ut
+radices novae aequationis priorum oppositae reddantur* Ex. gr⁴
+
+x* -ι- 6x³ — 5x2 — 422< -ο- 4ο
+habet radices 1‚2-4‚ -5, et radices ipsius
+κ* - 696³ — 5>ε1 -l- 42³6 —l- 40
+
+sunt -1, -2, 4 ²105·
+
+Per praecedentia igitur si radices omnes reales sint, quot sint posi-
+tivae et negativae, dignosciturg observando interim7 quod si quis ter-
+minus desity 0 tam -l- quam — accipi possit; et si per hoc numerus
+

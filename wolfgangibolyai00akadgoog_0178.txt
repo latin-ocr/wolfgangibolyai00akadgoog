@@ -1,0 +1,52 @@
+162 CONSPECTUS ARITHMETICAE GENERAmsi
+
+et coefficiens e positivus erit, veluti ubique, ubi exponens ipsius x impar
+est, et negativus, ubi exponens ipsius x par est; nam si e fractione vera
+integer subtrahatur, negativum manem adeoque nd exponentem parem
+factores negativi numero impari erunt, et pari nd imparem.
+
+Pro (1-xj2 erit
+
+ι’(εῐι)
+
+1——ex-4- 2
+
+ 
+
+§cst-..4
+
+ubi coefficiens —a negativum est, quia e per jx multipiicatur, et postea
+quoque omnes coefficientes negativi erunt; nam ad exponentem paren]
+potentia positiva est, et numerus factorum negativarum est impar, et
+par ad exponentem imparem ipsius fix.
+
+Pro (i-i-fof' fit
+ddjeji)
+
+jx2—1-
+
+i—ex—O- 2 ..q
+
+ubi coefficientes ad exponentem imparem sunt negativi et positivi ad
+parem; nam ad imparem exponentem factorum negativoruin numerus
+impar est, et par ad parem. Inverse est, dum tznn e, quam x eum
+-Ι- est.
+
+Pro (x—xkff fiunt omnes termini positivi, quuin ad exponentem
+imparem potentia negativa sit cum numero factorum negativorum impari,
+et hi numero pari sint ad exponentem parenr
+
+2. Si e >1, eruntpro {1†x>f termini priores positiviy usquequo factores
+eoefficientis fractio verafprima viee ingreditur (ex e integris ab 1 incipiendo
+subtractis); et tum terminus sequens fit negativus, nam coefficienti priori
+aceedit [actor f— Ι, quod negativum estg atque deinde termini signa
+alternabuntg nempe factores coesfieientis sequentis duo negativi et sequentis
+tres negativi &J ingrediuntur.
+
+Pro (ivxyss coeffieiens ipsius x est negativus propter —x, et ad
+exponentem imparem semper negativus erit et positivus ad parem eousque,
+dum ex e ipso maius subtrahitur, et fractio vern negativa factores coeffi-
+cientis prima vice ingreditur; abinde vero eruut vei omnes positivi vel
+omnes negativi; nempe si sector negativus ad exponentem imparem ipsius
+rx nascatur, terminus is positivus erit (propter dnos factores negativos),
+

@@ -1,0 +1,47 @@
+600 CONSPECTUS ARITHMETICAE GENERALIS,
+
+talis expressio dieitur, in cuius termino quovis unica litera punctam
+eaque in prima potentia est, et coefficiens eius pro quovis dato x functio
+absoluta est.
+
+At vero expressio talis ita intelligenda esty ut omnes literae valoribus
+simultaneis, quibus ad finem cuiusvis mo& gaudent. accipiantur, punctata
+vero semper et alibi sit incrementum eius, quod litera illa sine puncto
+significat sub m-to x- factum*
+
+5. Per a(x) autem intelligatur (pag. 596) Assx>—A<x-5cx itu, ut in
+hoc ipsi x quivis valor pro aliquo n sub formam moi cadens substitui
+possit; ita tamen ut quivis utvis crescente decrescenteve n constans
+maneat ipso 771 quoque eatenus mutam, atque x semper mx sit.
+
+Si vero
+
+A(x)=z
+sit, patet Z ipsi mx et 2⁴ respondere m-to αἱ, atque esse
+
+A (x—x) :z—z';
+
+adeoque si ex. gr.
+C(x)=z2‚
+
+esse
+c(x) :2² -oe—-zssk
+
+Quodsi iam pro quovis dicto x (a β usque ad γ) sit
+
+A (x>-‘f¹sxi³3³io‹x]
+x ⁴ ,
+
+ 
+
+et D(x) functio absoluta sit, semper finita nec 0y nonnisi ipsis x in certis
+punctis diseretis desinentibus exceptis; erit
+fflfflfflſtrx‘) Ι
+xD(x) s*
+saltem praeter puncta dicta; itaque per fluxum puncti quaerendo (pag.
+
+596) pro quovis tali x, quodnam n pro dato N satisfaciat, dabitur tale
+
+n pro quo eodem sit
+ammom-21 (mab)
+

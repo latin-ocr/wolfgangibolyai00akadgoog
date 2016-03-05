@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./wolfgangibolyai00akadgoog_0709.png"; bbox 0 0 1346 1729; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1034 284 1229 312">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1034 284 1229 312">
+     <span class='ocr_line' id='line_1_1' title="bbox 1034 284 1229 312; baseline 0.015 -11"><span class='ocrx_word' id='word_1_1' title='bbox 1034 284 1110 305; x_wconf 72' lang='lat' dir='ltr'>TabVIL</span> <span class='ocrx_word' id='word_1_2' title='bbox 1116 287 1138 304; x_wconf 74' lang='lat' dir='ltr'>Fi</span> <span class='ocrx_word' id='word_1_3' title='bbox 1142 294 1156 312; x_wconf 68' lang='lat'><strong>9</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 1163 292 1172 305; x_wconf 79' lang='grc'>3</span> <span class='ocrx_word' id='word_1_5' title='bbox 1176 293 1183 305; x_wconf 82' lang='grc'>7</span> <span class='ocrx_word' id='word_1_6' title='bbox 1188 293 1215 306; x_wconf 44' lang='grc' dir='ltr'>ἶ39</span> <span class='ocrx_word' id='word_1_7' title='bbox 1222 291 1229 298; x_wconf 67' lang='lat'>⁴⁴¹</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 974 1596 1242 1653">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 974 1596 1242 1653">
+     <span class='ocr_line' id='line_1_2' title="bbox 974 1596 1242 1653; baseline 0.004 -18"><span class='ocrx_word' id='word_1_8' title='bbox 974 1620 1039 1636; x_wconf 44' lang='lat' dir='ltr'>mmm</span> <span class='ocrx_word' id='word_1_9' title='bbox 1049 1596 1242 1653; x_wconf 34' lang='lat' dir='ltr'>&amp;Google</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

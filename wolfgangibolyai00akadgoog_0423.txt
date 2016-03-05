@@ -1,0 +1,41 @@
+SECTxo TERTIA. 407
+
+radicum positivarum et negativarum diverso modo indicaretur, radicem
+imaginariam adesse constet,
+
+11. Si radix commensurabilis sity illam numerum integ-rum (per pag.
+400), et factorem termini ultimi (per pag. 401> esse constat. Itaque inter
+{actores termini ultimi quaerendus est, qui functionem flx)=o reddat,
+si is in ea ipsi x ubique substituatur; uti in exemplo proximo, terminus
+uitimus est 40, et radices, quum omnes commensurabiles sint7 e faetorir
+bus integris ipsius 40 sunt,
+
+Si tamen terminus uitimus t nimis magnus sity multisque factoribus
+gaudeat, facile poterit (per pag⁴ 394) aequatio, substituto y÷a ipsi x in
+f(x>, in talem transformari, cuius radici y addendum ιι est, ut x prodeat3
+adeoque e factoribus ipsius t illi tantum tentandi erunt, num radices
+ipsius fix] siut, qui subtracto a factores termini ultimi aequationis novae
+sunt. Saepius suffieit, zzz—fi vel -Ι accipere; et si aequationum pro
+x=y÷tz, et xzy'ja transsormatarum ultimi dicantur U et u, patet
+factorem k ipsius t radicem ipsius six) nonnisi tunc esse posse, si detur
+ipsius U factor talis y et factor talis γ’ ipsius u, ut kzy4-azy'—a sit⁴
+
+Exi gri Pro
+
+x1—40x2—t-595x2-3900x—3- 9504:0‚
+
+fit substituendo y»<10 ipsi x, aequationis novae terminus ultimus 24,
+cuius 1, 2, —1‚ *2 factoreSJ atque ιο-Η, 10-1-2, 10—1 10e2 radices
+aequatiouis prioris sunt.
+
+12. Si vero radix realis quidem, sed non sit cum 1 commensura«
+bilis; tum quaerantur talia α et h, inter quae radicem cadere oportet;
+atque ipsis a et b quanto propius nd se invicem latis, radix inter ea
+cadens inodo dicendo approximetur. Si fiai positivum et ffb) negativum
+sit, demonstrabitur paulo inferius, fixyzz) radice reali inter a et b
+cadenti gaudere; itaque talia a et b a se invicem quo minus differentia
+reperienda suni. Substimendo nempe ipsi x pro radice positiva numeros
+0y 1, 2, . ⁴ . et pro radice negativa ο, --ry —2, ...si ex. gr. sit
+
+f(x>=x³-r3x¹——17x—i-43,
+

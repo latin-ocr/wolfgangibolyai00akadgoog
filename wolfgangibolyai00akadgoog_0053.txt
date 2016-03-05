@@ -1,0 +1,39 @@
+SECT10 PRIMA. 37
+
+ita si Α sit unitas, 2(1')tum ipsius A, id est 2A dicatur tantum 2y ita β1
+denotet -ῐΑ,
+
+Ressectendo ad superius dicta varia aequahtatis genera, heic quoque
+aliquod se offert. Si nempe ν sit recta, et t tempusy atque utrumque sit
+suae unitatis aylam, eatenus aequalia sunt. Ita si L et l rectae sint,
+patebit factum e quotvis lineis esse lineam3 sed si unitas areae sit quadra-
+tum, cuius latus unitas lineae est, et sactum ex L et l sit ex⁴ gr. nmmum
+unitatis linearum ς et rectangtdum ex L et lesit nmmum unitatis arearum.
+Ita sit factum ex L,l‚l' (tribus rectis) N(M)tum unitatis linea1·um;
+parallelepipedum ex Ly l, l' etiam 1V[M)tum unitatis solidorum est, si haec
+cubus is ponatur, cuius latus unitas linearum θείς uti infra demonstratur.
+Itaque ista hoc respectu sunt aequalia.
+
+Unitatem positivam (et non zero> figere libuit, atque uteunque
+mutetur unum, unitas eadem prius arbitraria posita pro omnibus hom0>
+geneis retineatur, donee expresse aliud monitum fuerin si ex. gr. unitas
+sit 1 hexapeda, sive 1 dicatur, sive 6 pedes, quantitas eadem est. Si 0
+assumeretur pro unitate, linea expressio indeterminata esset, nam prouti
+acciperetur u, esset pro quovis tl linea mmmm.
+
+§ 24.
+
+Id, quod unimte minus est, dieitur fractio vera : et id quod numerus
+est quoad unum unitati aequale, dicitur numerus integram In serie
+
+....—3‚—2,ss1,0‚1,2,3,...‚
+
+est [per § 7⁴] 2<—3, sed 1 non >Q neque — 1<10; at potest dici
+quemvis terminum esse paucius quovis ab eo ad dextram sito, et plus
+quam quivis ab eo ad sinistram situs est; quod etium ad non integros exten⁷
+datur. Designari potest per
+
+0>-—1;1>0;1>fi1;*1>—2.
+
+Facile patebit (per inferiora), quod si
+

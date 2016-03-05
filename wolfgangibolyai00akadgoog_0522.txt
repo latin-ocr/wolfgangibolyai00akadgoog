@@ -1,0 +1,37 @@
+506 CONSPECTUS ARITHMETICAE GENERALIS.
+
+§. ί).
+
+Si dividendo D cifrae numero lu adiiciantur, et diviso hoc per
+(ἰ prodeat pars quoti integra q; atque fiant in q notae decimales nu-
+mero yu: prodibit quotus cum errore <12 [ομ. Nam
+
+D:dzD.10⁴':d710¹“:(l).10¹⁴:d] :10*⁴;
+atque
+qd<D.10*⁴<(q-t-1>.d;
+itaque
+q,d:10'“<D<(q—0-1).d:10'“.
+
+Unde etiam modus patet, quo fractio quaevis in decimalem cum er⁴
+rore saltem quantumvis exiguo convertatur.
+
+Quomodo quaevis fractio ad quemvis denominatorem reducatur, et
+denominator eommunis minimus, divisorque communis maximus repe-
+riatur, dietum est pag. 68 et 429,
+
+Scholion. 1. Proba novenariorum in singulis quatuor speciebus valet
+in tantum, quod si locum non habeat, operatio erronea sit; conversim
+autern patet resultati notis permutatis etiam, probam locum habere. In
+subtractione e subtracto et differentia simul, et tum e minuendo eii-
+ciendi novenarii sunt; in multz'sz‘catz'ona e sacto7 atque e factoribus:
+nempe si multiplicandus :mesti-a, et multiplicator :mAJ—l-l), factum
+=m.n.9i9-l-a.m‚9—l-b,n<9-l-a.b; itaque a.b supra novenarii multi-
+plum tantum residuum relinquere debet, quam saelum eiectis novenariis
+
+Scholion. 2. Operationes istae eum numeris dyadice expressis facillime
+peragerentur: si ubi plures imagines addendae sunt, prius duae addan-
+[ury et cuivis summae quae prodiit sequens addatur, donee summa om>
+nium prodeat* In multiplicalione, nonnisi multiplicandus describitur
+ubique sub multiplicatoris nota Ξ] terminandus. In divisione semper
+patet, num Ο aut Ι in quotum veniat.
+

@@ -1,0 +1,37 @@
+344 CONSPECTUS ARITHMETICAE GENERALIS.
+
+et faciie patet, quod duorum priorum terminorum summa per totum
+differentiale verum divisa tendat ad λ, dum nffloog atque summa diffe-
+rentialium partialium quoad singulas variabiles sit differentiale sensu stricto,
+et derivata quoque sit summa derivatarum quoad singulas variabiles ac-
+ceptarnm.
+
+Unde de duabus variabilibus ad tertiam Z et semper porro ad una
+plures progredi licet, Nempe (xyy) dicatur Xet F(x,y‚ Ζ) dicatur f<jX Z) z
+
+erit dfikX Z> Ζ ὀῘ(Χ” 24)(1ὶ1οἱ1ιὶ X} -ι- dfsX quuofld 2)
+sed df(X7 Z] = dF(x‚ y, zl, si differentiale ita accipiatur, ut Z
+constans sugggxnigmn etdf(X,2'1 :d F(x,y, z> pro x, y constan-
+
+tibus positis. Est autem dffX, ziqufiifomz constante differentiale functionis
+
+duarum variabilium x,y; quod igitur summa differentialium functionis
+F(x‚y,z') quoad x et y seorsim acceptarum est, cui accedit etiam diffe-
+rentiale functionis eiusdem quoad Z acceptum*
+De lege generali, qua functio quotvis variabilium evolvitur, videatur
+LAGRANGE, leesorz'e des fonctions, 1813, pag. 130.
+Exemplo tamen sacili evolutionem functionis duarum variabilium
+illustrare libet.
+Sit
+Ι F(x‚y>=c1—fl-bxy;
+ent
+F<x÷m,y÷2.)=a÷b(x÷s0)[y-÷-2¹)=a÷bxy÷bmy÷htx-phaz,
+quod si ——x substituatur ipsi ω et *2³ ipsi λ fit
+= α —t- hxy —— bya'c —bxje -ι- ὂοέᾠ,
+et hoc si ex a÷l>xy subtrahatur7 differentia est
+hya& »ι- bxy -ν My,
+
+quod ibydc-t-bxjt. Prodit etiam manifesto idem, sive ipsis x‚y simul
+substituatur x-o- ω, γ-μλ, sive prius tantum ipsi x substituatur θεὴ-ω et
+tum in hoe substituatur y-kk ipsi y; nam si tantum ipsi x substituatur
+
